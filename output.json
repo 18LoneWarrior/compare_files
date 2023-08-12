@@ -1,0 +1,39 @@
+{
+  "0": {
+    "students": {
+      "0": {
+        "student": {
+          "student_class_student": 1400,
+          "student_subject_student": 18,
+          "student_subject_student__majorSubject": 79,
+          "student_subject_student__minorSubject": 40,
+          "student_subject_student__openElectiveSubject": 90,
+          "student_subject_student__trainingSubject": 68
+        },
+        "name": {
+          "name": "Neha Sahu",
+          "father": "Pradeep Sahu",
+          "mother": "Ankita Sahu",
+          "uniqueNumber": "28/MGMY/01008"
+        }
+      },
+      "2": {
+        "student": {
+          "id": 1400,
+          "student_class_student": 1400,
+          "student_subject_student": 19,
+          "student_subject_student__majorSubject": 60,
+          "student_subject_student__minorSubject": 50,
+          "student_subject_student__openElectiveSubject": 45,
+          "student_subject_student__trainingSubject": 30
+        },
+        "name": {
+          "name": "ROHIT YADAV",
+          "father": "RAVI YADAV",
+          "mother": "SHEETAL YADAV",
+          "uniqueNumber": "30/MGMY/2023"
+        }
+      }
+    }
+  }
+}
