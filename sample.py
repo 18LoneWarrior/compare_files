@@ -12,8 +12,6 @@ Allows exclusion of some keys from the comparison, or in other way to include on
 """
 
 # READS THE JSON FILES
-
-
 def read_file(file_path):
     with open(file_path, 'r') as file:
         data = json.load(file)
@@ -28,8 +26,6 @@ def compare_files(file1, file2):
     return differences
 
 # WRITE THE COMPARED DATA TO A EXTERNAL JSON FILE
-
-
 def write_files(file_path, data):
     with open(file_path, 'w')as file:
         json.dump(data, file, indent=2)
