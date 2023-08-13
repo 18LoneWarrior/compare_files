@@ -24,15 +24,13 @@ if __name__ == "__main__":
 
     json1 = read_json(file1_path)
     json2 = read_json(file2_path)
+    output_file_path = "output.json"
 
     differences = diff(json1, json2)
 
     output_data = {
         "original_data": json1,
-        "differences": differences
-    }
-
-    output_file_path = "output.json"
+        "differences": differences}
 
     with open(output_file_path, 'w') as output_file:
         json.dump(output_data, output_file, indent=4)
