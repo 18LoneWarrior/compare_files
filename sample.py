@@ -12,31 +12,32 @@ Allows exclusion of some keys from the comparison, or in other way to include on
 """
 
 # READS THE JSON FILES
-def read_file(file_path):
+def read_json(file_path):
     with open(file_path, 'r') as file:
         data = json.load(file)
     return data
 
 
-# COMPARES THE CONTENT OF JSON FILES
-def compare_files(file1, file2):
-    data1 = read_file(file1)
-    data2 = read_file(file2)
-    differences = diff(data1, data2)
-    return differences
-
-# WRITE THE COMPARED DATA TO A EXTERNAL JSON FILE
-def write_files(file_path, data):
-    with open(file_path, 'w')as file:
-        json.dump(data, file, indent=2)
-
-
 if __name__ == "__main__":
-    # PATH FOR INPUT AND OUTPUT FILES
-    file1 = "bca.json"
-    file2 = "bca1.json"
-    output = "output.json"
+    file1_path = "bca.json"  
+    file2_path = "bca1.json" 
 
-    differences = compare_files(file1, file2)
-    write_files(output, differences)
-    print(f"Data has been saved to '{output}'.")
+    json1 = read_json(file1_path)
+    json2 = read_json(file2_path)
+
+    differences = diff(json1, json2)
+
+    output_data = {
+        "original_data": json1,
+        "differences": differences
+    }
+
+    output_file_path = "output.json"
+
+    with open(output_file_path, 'w') as output_file:
+        json.dump(output_data, output_file, indent=4)
+
+    if differences:
+        print(f"Differences saved to {output_file_path}.")
+    else:
+        print("The JSON files are identical.")
