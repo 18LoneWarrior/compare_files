@@ -1,0 +1,3046 @@
+[
+  {
+    "page_number": 2,
+    "students": [
+      {
+        "sno": 1,
+        "pic": "/uploads/2021-22/ug/2101070316.jpg",
+        "semesterName": 1,
+        "rollNumber": "2101070316",
+        "student": {
+          "id": 1490,
+          "student_class_student": 1490,
+          "student_subject_student": 16,
+          "student_subject_student__majorSubject": 53,
+          "student_subject_student__minorSubject": 39,
+          "student_subject_student__openElectiveSubject": 41,
+          "student_subject_student__trainingSubject": 36
+        },
+        "enrollment": "R21004P3590003",
+        "name": {
+          "name": "AKANKSHA KURMI",
+          "father": "ARUN KUMAR",
+          "mother": "SEEMA KURMI",
+          "uniqueNumber": "21/MGMY/01006"
+        },
+        "marksList": [
+          {
+            "value1": 20,
+            "value3": "[45 / 100]",
+            "sum": 40,
+            "subject": 200,
+            "value4": "q",
+            "value5": 5,
+            "value6": 20,
+            "value2": 25,
+            "courseTypeCode": "MJ-I",
+            "rowspan": 5
+          },
+          {
+            "value7": 50,
+            "value3": "[75 / 100]",
+            "sum": 78,
+            "subject": 210,
+            "value4": "A",
+            "value5": 9,
+            "value6": 20,
+            "value2": 25
+          },
+          {
+            "value1": 20,
+            "value3": "[40 / 100]",
+            "sum": 36,
+            "subject": 300,
+            "value4": "B",
+            "value5": 7,
+            "value6": 18,
+            "value2": 21,
+            "courseTypeCode": "MJ-II",
+            "rowspan": 4
+          },
+          {
+            "value7": 56,
+            "value3": "[79 / 100]",
+            "sum": 75,
+            "subject": 221,
+            "value4": "A",
+            "value5": 9,
+            "value6": 36,
+            "value2": 51
+          },
+          {
+            "value1": 23,
+            "value3": "[80 / 100]",
+            "sum": 50,
+            "subject": 219,
+            "value4": "B",
+            "value5": 9,
+            "value6": 89,
+            "value2": 75,
+            "courseTypeCode": "MN",
+            "rowspan": 1
+          },
+          {
+            "value7": 51,
+            "value3": "[37 / 100]",
+            "sum": 79,
+            "subject": 244,
+            "value4": "A",
+            "value5": 7,
+            "value6": 19,
+            "value2": 28
+          },
+          {
+            "value1": 2,
+            "value3": "[57 F / 100]",
+            "sum": 79,
+            "subject": 210,
+            "value4": "B",
+            "value5": 23,
+            "value6": 45,
+            "value2": 33,
+            "courseTypeCode": "EL",
+            "rowspan": 3
+          },
+          {
+            "value7": 145,
+            "value1": 37,
+            "sum": 41,
+            "subject": 69,
+            "subject1": 68,
+            "total": 3,
+            "subjectType": "FC",
+            "value3": "[76 / 100]",
+            "value4": "C",
+            "value5": 3,
+            "value6": 60,
+            "courseTypeCode": "FC-I",
+            "rowspan": 1
+          },
+          {
+            "value7": 67,
+            "value1": 27,
+            "sum": 50,
+            "subject": 82,
+            "subject1": 40,
+            "total": 6,
+            "subjectType": "FC",
+            "value3": "[80 / 100]",
+            "value4": "B",
+            "value5": 4,
+            "value6": 74,
+            "courseTypeCode": "FC-II",
+            "rowspan": 5
+          },
+          {
+            "value1": 36,
+            "value2": 62,
+            "sum": 78,
+            "value3": "[60 / 100]",
+            "subject": 218,
+            "value4": "C",
+            "value5": 3,
+            "value6": 50,
+            "type": "Vocational",
+            "courseCredit": 5,
+            "rowspan": 7,
+            "courseTypeCode": "VOC",
+            "courseCode": "Theory"
+          },
+          {
+            "value7": 64,
+            "sum": 64,
+            "value3": "[64 / 100]",
+            "subject": 214,
+            "value4": "A",
+            "value5": 5,
+            "value6": 46,
+            "type": "Vocational",
+            "courseCredit": 4,
+            "courseCode": "Practical"
+          },
+          {
+            "value7": 47,
+            "value3": "[47 / 100]",
+            "sum": 47,
+            "subject": 240,
+            "value4": "A",
+            "value5": 5,
+            "value6": 35,
+            "courseTypeCode": "INT/PROJ",
+            "rowspan": 3
+          },
+          {
+            "totalCredit": 60,
+            "totalGainCredit": 40,
+            "totalCreditPoints": 200
+          },
+          {
+            "value1": 38
+          },
+          {
+            "totalGainCredit": 38
+          },
+          {
+            "value1": 220
+          },
+          {
+            "totalCreditPoints": 220
+          },
+          {
+            "value1": "Supplementary"
+          },
+          {
+            "result": "Supplementary"
+          },
+          {
+            "value1": "6.25"
+          },
+          {
+            "totalCredit": 70,
+            "totalCreditPoints": 200,
+            "sgpa": "6.25",
+            "totalGainCredit": 38
+          },
+          {
+            "value1": "Supple.: DM-TH, "
+          },
+          {
+            "remark": "Supple.: DM-TH, "
+          },
+          {
+            "sem": "Decimal('    ')"
+          }
+        ],
+        "results": [
+          {
+            "name": "Total Credits",
+            "data": [40, "", ""]
+          },
+          {
+            "name": "CGPA",
+            "data": ["Decimal('    ')", "", ""]
+          },
+          {
+            "name": "Attempt",
+            "data": [1, "", ""]
+          },
+          {
+            "name": "Result",
+            "data": ["PASS", "", ""]
+          }
+        ]
+      },
+      {
+        "sno": 2,
+        "pic": "/uploads/2021-22/ug/2101070317.jpg",
+        "semesterName": 1,
+        "rollNumber": "2101070317",
+        "student": {
+          "id": 1487,
+          "student_class_student": 1487,
+          "student_subject_student": 15,
+          "student_subject_student__majorSubject": 53,
+          "student_subject_student__minorSubject": 39,
+          "student_subject_student__openElectiveSubject": 41,
+          "student_subject_student__trainingSubject": 36
+        },
+        "enrollment": "R21004P3590008",
+        "name": {
+          "name": "ASHIYA KHAN",
+          "father": "RAFEEK",
+          "mother": "ALIYA",
+          "uniqueNumber": "21/MGMY/01003"
+        },
+        "marksList": [
+          {
+            "value1": 32,
+            "value3": "[57 / 100]",
+            "sum": 57,
+            "subject": 208,
+            "value4": "B",
+            "value5": 6,
+            "value6": 24,
+            "value2": 25,
+            "courseTypeCode": "MJ-I",
+            "rowspan": 2
+          },
+          {
+            "value7": 52,
+            "value3": "[75 / 100]",
+            "sum": 75,
+            "subject": 209,
+            "value4": "A",
+            "value5": 8,
+            "value6": 16,
+            "value2": 23
+          },
+          {
+            "value1": 28,
+            "value3": "[50 / 100]",
+            "sum": 50,
+            "subject": 210,
+            "value4": "B",
+            "value5": 6,
+            "value6": 24,
+            "value2": 22,
+            "courseTypeCode": "MJ-II",
+            "rowspan": 2
+          },
+          {
+            "value7": 54,
+            "value3": "[76 / 100]",
+            "sum": 76,
+            "subject": 211,
+            "value4": "A",
+            "value5": 8,
+            "value6": 16,
+            "value2": 22
+          },
+          {
+            "value1": 40,
+            "value3": "[66 / 100]",
+            "sum": 66,
+            "subject": 213,
+            "value4": "B+",
+            "value5": 7,
+            "value6": 28,
+            "value2": 26,
+            "courseTypeCode": "MN",
+            "rowspan": 2
+          },
+          {
+            "value7": 55,
+            "value3": "[77 / 100]",
+            "sum": 77,
+            "subject": 214,
+            "value4": "A",
+            "value5": 8,
+            "value6": 16,
+            "value2": 22
+          },
+          {
+            "value1": 60,
+            "value3": "[89 / 100]",
+            "sum": 89,
+            "subject": 215,
+            "value4": "A+",
+            "value5": 9,
+            "value6": 54,
+            "value2": 29,
+            "courseTypeCode": "EL",
+            "rowspan": 1
+          },
+          {
+            "value7": 35,
+            "value1": 36,
+            "sum": 71,
+            "subject": 79,
+            "subject1": 78,
+            "total": 4,
+            "subjectType": "FC",
+            "value3": "[71 / 100]",
+            "value4": "A",
+            "value5": 8,
+            "value6": 32,
+            "courseTypeCode": "FC-I",
+            "rowspan": 2
+          },
+          {
+            "value7": 30,
+            "value1": 36,
+            "sum": 66,
+            "subject": 81,
+            "subject1": 80,
+            "total": 4,
+            "subjectType": "FC",
+            "value3": "[66 / 100]",
+            "value4": "B+",
+            "value5": 7,
+            "value6": 28,
+            "courseTypeCode": "FC-II",
+            "rowspan": 2
+          },
+          {
+            "value1": 38,
+            "value2": 21,
+            "sum": 59,
+            "value3": "[59 / 100]",
+            "subject": 216,
+            "value4": "B",
+            "value5": 6,
+            "value6": 12,
+            "type": "Vocational",
+            "courseCredit": 2,
+            "rowspan": 2,
+            "courseTypeCode": "VOC",
+            "courseCode": "Theory"
+          },
+          {
+            "value7": 77,
+            "sum": 77,
+            "value3": "[77 / 100]",
+            "subject": 216,
+            "value4": "A",
+            "value5": 8,
+            "value6": 16,
+            "type": "Vocational",
+            "courseCredit": 2,
+            "courseCode": "Practical"
+          },
+          {
+            "value7": 74,
+            "value3": "[74 / 100]",
+            "sum": 74,
+            "subject": 239,
+            "value4": "A",
+            "value5": 8,
+            "value6": 32,
+            "courseTypeCode": "INT/PROJ",
+            "rowspan": 1
+          },
+          {
+            "totalCredit": 40,
+            "totalGainCredit": 40,
+            "totalCreditPoints": 298
+          },
+          {
+            "value1": 40
+          },
+          {
+            "totalGainCredit": 40
+          },
+          {
+            "value1": 298
+          },
+          {
+            "totalCreditPoints": 298
+          },
+          {
+            "value1": "PASS"
+          },
+          {
+            "result": "PASS"
+          },
+          {
+            "value1": "7.45"
+          },
+          {
+            "totalCredit": 40,
+            "totalCreditPoints": 298,
+            "sgpa": "7.45",
+            "totalGainCredit": 40
+          },
+          {
+            "value1": ""
+          },
+          {
+            "remark": ""
+          },
+          {
+            "sem": "Decimal('7.45')"
+          }
+        ],
+        "results": [
+          {
+            "name": "Total Credits",
+            "data": [40, "", ""]
+          },
+          {
+            "name": "CGPA",
+            "data": "Decimal('7.45')"
+          },
+          {
+            "name": "Attempt",
+            "data": [1, "", ""]
+          },
+          {
+            "name": "Result",
+            "data": ["PASS", "", ""]
+          }
+        ]
+      },
+      {
+        "sno": 3,
+        "pic": "/uploads/2021-22/ug/2101070320.jpg",
+        "semesterName": 1,
+        "rollNumber": "2101070320",
+        "student": {
+          "id": 1483,
+          "student_class_student": 1483,
+          "student_subject_student": 13,
+          "student_subject_student__majorSubject": 53,
+          "student_subject_student__minorSubject": 39,
+          "student_subject_student__openElectiveSubject": 41,
+          "student_subject_student__trainingSubject": 36
+        },
+        "enrollment": "R21004P3590001",
+        "name": {
+          "name": "NATASHA VISHWAKARMA",
+          "father": "NARENDRA VISHWAKARMA",
+          "mother": "SHEELA",
+          "uniqueNumber": "21/MGMY/00999"
+        },
+        "marksList": [
+          {
+            "value1": 17,
+            "value3": "[31 F / 100]",
+            "sum": 31,
+            "subject": 208,
+            "value4": "F",
+            "value5": 0,
+            "value6": 0,
+            "value2": 14,
+            "courseTypeCode": "MJ-I",
+            "rowspan": 2
+          },
+          {
+            "value7": 49,
+            "value3": "[69 / 100]",
+            "sum": 69,
+            "subject": 209,
+            "value4": "B+",
+            "value5": 7,
+            "value6": 14,
+            "value2": 20
+          },
+          {
+            "value1": 12,
+            "value3": "[33 F / 100]",
+            "sum": 33,
+            "subject": 210,
+            "value4": "F",
+            "value5": 0,
+            "value6": 0,
+            "value2": 21,
+            "courseTypeCode": "MJ-II",
+            "rowspan": 2
+          },
+          {
+            "value7": 54,
+            "value3": "[76 / 100]",
+            "sum": 76,
+            "subject": 211,
+            "value4": "A",
+            "value5": 8,
+            "value6": 16,
+            "value2": 22
+          },
+          {
+            "value1": 28,
+            "value3": "[50 / 100]",
+            "sum": 50,
+            "subject": 213,
+            "value4": "B",
+            "value5": 6,
+            "value6": 24,
+            "value2": 22,
+            "courseTypeCode": "MN",
+            "rowspan": 2
+          },
+          {
+            "value7": 57,
+            "value3": "[79 / 100]",
+            "sum": 79,
+            "subject": 214,
+            "value4": "A",
+            "value5": 8,
+            "value6": 16,
+            "value2": 22
+          },
+          {
+            "value1": 15,
+            "value3": "[39 / 100]",
+            "sum": 39,
+            "subject": 215,
+            "value4": "P",
+            "value5": 4,
+            "value6": 24,
+            "value2": 24,
+            "courseTypeCode": "EL",
+            "rowspan": 1
+          },
+          {
+            "value7": 28,
+            "value1": 29,
+            "sum": 57,
+            "subject": 79,
+            "subject1": 78,
+            "total": 4,
+            "subjectType": "FC",
+            "value3": "[57 / 100]",
+            "value4": "B",
+            "value5": 6,
+            "value6": 24,
+            "courseTypeCode": "FC-I",
+            "rowspan": 2
+          },
+          {
+            "value7": 29,
+            "value1": 18,
+            "sum": 47,
+            "subject": 81,
+            "subject1": 80,
+            "total": 4,
+            "subjectType": "FC",
+            "value3": "[47 / 100]",
+            "value4": "C",
+            "value5": 5,
+            "value6": 20,
+            "courseTypeCode": "FC-II",
+            "rowspan": 2
+          },
+          {
+            "value1": 25,
+            "value2": 20,
+            "sum": 45,
+            "value3": "[45 / 100]",
+            "subject": 216,
+            "value4": "C",
+            "value5": 5,
+            "value6": 10,
+            "type": "Vocational",
+            "courseCredit": 2,
+            "rowspan": 2,
+            "courseTypeCode": "VOC",
+            "courseCode": "Theory"
+          },
+          {
+            "value7": 73,
+            "sum": 73,
+            "value3": "[73 / 100]",
+            "subject": 216,
+            "value4": "A",
+            "value5": 8,
+            "value6": 16,
+            "type": "Vocational",
+            "courseCredit": 2,
+            "courseCode": "Practical"
+          },
+          {
+            "value7": 69,
+            "value3": "[69 / 100]",
+            "sum": 69,
+            "subject": 239,
+            "value4": "B+",
+            "value5": 7,
+            "value6": 28,
+            "courseTypeCode": "INT/PROJ",
+            "rowspan": 1
+          },
+          {
+            "totalCredit": 40,
+            "totalGainCredit": 32,
+            "totalCreditPoints": 192
+          },
+          {
+            "value1": 32
+          },
+          {
+            "totalGainCredit": 32
+          },
+          {
+            "value1": 192
+          },
+          {
+            "totalCreditPoints": 192
+          },
+          {
+            "value1": "Supplementary"
+          },
+          {
+            "result": "Supplementary"
+          },
+          {
+            "value1": "4.80"
+          },
+          {
+            "totalCredit": 40,
+            "totalCreditPoints": 192,
+            "sgpa": "4.80",
+            "totalGainCredit": 32
+          },
+          {
+            "value1": "Supple.: CFO & A-TH, PM & DS-TH, "
+          },
+          {
+            "remark": "Supple.: CFO & A-TH, PM & DS-TH, "
+          },
+          {
+            "sem": "Decimal('5.80')"
+          }
+        ],
+        "results": [
+          {
+            "name": "Total Credits",
+            "data": [40, "", ""]
+          },
+          {
+            "name": "CGPA",
+            "data": "Decimal('5.80')"
+          },
+          {
+            "name": "Attempt",
+            "data": [1, "", ""]
+          },
+          {
+            "name": "Result",
+            "data": ["PASS", "", ""]
+          }
+        ]
+      },
+      {
+        "sno": 4,
+        "pic": "/uploads/2021-22/ug/2101070321.jpg",
+        "semesterName": 1,
+        "rollNumber": "2101070321",
+        "student": {
+          "id": 1603,
+          "student_class_student": 1603,
+          "student_subject_student": 19,
+          "student_subject_student__majorSubject": 53,
+          "student_subject_student__minorSubject": 39,
+          "student_subject_student__openElectiveSubject": 41,
+          "student_subject_student__trainingSubject": 36
+        },
+        "enrollment": "R21004P3590006",
+        "name": {
+          "name": "NEELAM KORI",
+          "father": "KHARAG RAM",
+          "mother": "ASHA",
+          "uniqueNumber": "21/MGMY/01117"
+        },
+        "marksList": [
+          {
+            "value1": 28,
+            "value3": "[50 / 100]",
+            "sum": 50,
+            "subject": 208,
+            "value4": "B",
+            "value5": 6,
+            "value6": 24,
+            "value2": 22,
+            "courseTypeCode": "MJ-I",
+            "rowspan": 2
+          },
+          {
+            "value7": 53,
+            "value3": "[72 / 100]",
+            "sum": 72,
+            "subject": 209,
+            "value4": "A",
+            "value5": 8,
+            "value6": 16,
+            "value2": 19
+          },
+          {
+            "value1": 25,
+            "value3": "[46 / 100]",
+            "sum": 46,
+            "subject": 210,
+            "value4": "C",
+            "value5": 5,
+            "value6": 20,
+            "value2": 21,
+            "courseTypeCode": "MJ-II",
+            "rowspan": 2
+          },
+          {
+            "value7": 53,
+            "value3": "[74 / 100]",
+            "sum": 74,
+            "subject": 211,
+            "value4": "A",
+            "value5": 8,
+            "value6": 16,
+            "value2": 21
+          },
+          {
+            "value1": 34,
+            "value3": "[57 / 100]",
+            "sum": 57,
+            "subject": 213,
+            "value4": "B",
+            "value5": 6,
+            "value6": 24,
+            "value2": 23,
+            "courseTypeCode": "MN",
+            "rowspan": 2
+          },
+          {
+            "value7": 52,
+            "value3": "[74 / 100]",
+            "sum": 74,
+            "subject": 214,
+            "value4": "A",
+            "value5": 8,
+            "value6": 16,
+            "value2": 22
+          },
+          {
+            "value1": 33,
+            "value3": "[54 / 100]",
+            "sum": 54,
+            "subject": 215,
+            "value4": "B",
+            "value5": 6,
+            "value6": 36,
+            "value2": 21,
+            "courseTypeCode": "EL",
+            "rowspan": 1
+          },
+          {
+            "value7": 27,
+            "value1": 34,
+            "sum": 61,
+            "subject": 79,
+            "subject1": 78,
+            "total": 4,
+            "subjectType": "FC",
+            "value3": "[61 / 100]",
+            "value4": "B+",
+            "value5": 7,
+            "value6": 28,
+            "courseTypeCode": "FC-I",
+            "rowspan": 2
+          },
+          {
+            "value7": 41,
+            "value1": 27,
+            "sum": 68,
+            "subject": 81,
+            "subject1": 80,
+            "total": 4,
+            "subjectType": "FC",
+            "value3": "[68 / 100]",
+            "value4": "B+",
+            "value5": 7,
+            "value6": 28,
+            "courseTypeCode": "FC-II",
+            "rowspan": 2
+          },
+          {
+            "value1": 38,
+            "value2": 19,
+            "sum": 57,
+            "value3": "[57 / 100]",
+            "subject": 216,
+            "value4": "B",
+            "value5": 6,
+            "value6": 12,
+            "type": "Vocational",
+            "courseCredit": 2,
+            "rowspan": 2,
+            "courseTypeCode": "VOC",
+            "courseCode": "Theory"
+          },
+          {
+            "value7": 69,
+            "sum": 69,
+            "value3": "[69 / 100]",
+            "subject": 216,
+            "value4": "B+",
+            "value5": 7,
+            "value6": 14,
+            "type": "Vocational",
+            "courseCredit": 2,
+            "courseCode": "Practical"
+          },
+          {
+            "value7": 68,
+            "value3": "[68 / 100]",
+            "sum": 68,
+            "subject": 239,
+            "value4": "B+",
+            "value5": 7,
+            "value6": 28,
+            "courseTypeCode": "INT/PROJ",
+            "rowspan": 1
+          },
+          {
+            "totalCredit": 40,
+            "totalGainCredit": 40,
+            "totalCreditPoints": 262
+          },
+          {
+            "value1": 40
+          },
+          {
+            "totalGainCredit": 40
+          },
+          {
+            "value1": 262
+          },
+          {
+            "totalCreditPoints": 262
+          },
+          {
+            "value1": "PASS"
+          },
+          {
+            "result": "PASS"
+          },
+          {
+            "value1": "6.55"
+          },
+          {
+            "totalCredit": 40,
+            "totalCreditPoints": 262,
+            "sgpa": "6.55",
+            "totalGainCredit": 40
+          },
+          {
+            "value1": ""
+          },
+          {
+            "remark": ""
+          },
+          {
+            "sem": "Decimal(6.55)"
+          }
+        ],
+        "results": [
+          {
+            "name": "Total Credits",
+            "data": [40, "", ""]
+          },
+          {
+            "name": "CGPA",
+            "data": "Decimal('6.55')"
+          },
+          {
+            "name": "Attempt",
+            "data": [1, "", ""]
+          },
+          {
+            "name": "Result",
+            "data": ["PASS", "", ""]
+          }
+        ]
+      },
+      {
+        "sno": 5,
+        "pic": "/uploads/2021-22/ug/2101070322.jpg",
+        "semesterName": 1,
+        "rollNumber": "2101070322",
+        "student": {
+          "id": 1381,
+          "student_class_student": 1381,
+          "student_subject_student": 11,
+          "student_subject_student__majorSubject": 53,
+          "student_subject_student__minorSubject": 39,
+          "student_subject_student__openElectiveSubject": 41,
+          "student_subject_student__trainingSubject": 36
+        },
+        "enrollment": "R21004P3590005",
+        "name": {
+          "name": "NISHA JAISWAL",
+          "father": "PRADEEP KUMAR JAISWAL",
+          "mother": "RAJKALI JAISWAL",
+          "uniqueNumber": "21/MGMY/00900"
+        },
+        "marksList": [
+          {
+            "value1": 28,
+            "value3": "[50 / 100]",
+            "sum": 50,
+            "subject": 208,
+            "value4": "B",
+            "value5": 6,
+            "value6": 24,
+            "value2": 22,
+            "courseTypeCode": "MJ-I",
+            "rowspan": 2
+          },
+          {
+            "value7": 54,
+            "value3": "[75 / 100]",
+            "sum": 75,
+            "subject": 209,
+            "value4": "A",
+            "value5": 8,
+            "value6": 16,
+            "value2": 21
+          },
+          {
+            "value1": 27,
+            "value3": "[48 / 100]",
+            "sum": 48,
+            "subject": 210,
+            "value4": "C",
+            "value5": 5,
+            "value6": 20,
+            "value2": 21,
+            "courseTypeCode": "MJ-II",
+            "rowspan": 2
+          },
+          {
+            "value7": 55,
+            "value3": "[78 / 100]",
+            "sum": 78,
+            "subject": 211,
+            "value4": "A",
+            "value5": 8,
+            "value6": 16,
+            "value2": 23
+          },
+          {
+            "value1": 39,
+            "value3": "[62 / 100]",
+            "sum": 62,
+            "subject": 213,
+            "value4": "B+",
+            "value5": 7,
+            "value6": 28,
+            "value2": 23,
+            "courseTypeCode": "MN",
+            "rowspan": 2
+          },
+          {
+            "value7": 56,
+            "value3": "[79 / 100]",
+            "sum": 79,
+            "subject": 214,
+            "value4": "A",
+            "value5": 8,
+            "value6": 16,
+            "value2": 23
+          },
+          {
+            "value1": 12,
+            "value3": "[30 F / 100]",
+            "sum": 30,
+            "subject": 215,
+            "value4": "F",
+            "value5": 0,
+            "value6": 0,
+            "value2": 18,
+            "courseTypeCode": "EL",
+            "rowspan": 1
+          },
+          {
+            "value7": 23,
+            "value1": 35,
+            "sum": 58,
+            "subject": 79,
+            "subject1": 78,
+            "total": 4,
+            "subjectType": "FC",
+            "value3": "[58 / 100]",
+            "value4": "B",
+            "value5": 6,
+            "value6": 24,
+            "courseTypeCode": "FC-I",
+            "rowspan": 2
+          },
+          {
+            "value7": 38,
+            "value1": 25,
+            "sum": 63,
+            "subject": 81,
+            "subject1": 80,
+            "total": 4,
+            "subjectType": "FC",
+            "value3": "[63 / 100]",
+            "value4": "B+",
+            "value5": 7,
+            "value6": 28,
+            "courseTypeCode": "FC-II",
+            "rowspan": 2
+          },
+          {
+            "value1": 36,
+            "value2": 19,
+            "sum": 55,
+            "value3": "[55 / 100]",
+            "subject": 216,
+            "value4": "B",
+            "value5": 6,
+            "value6": 12,
+            "type": "Vocational",
+            "courseCredit": 2,
+            "rowspan": 2,
+            "courseTypeCode": "VOC",
+            "courseCode": "Theory"
+          },
+          {
+            "value7": 68,
+            "sum": 68,
+            "value3": "[68 / 100]",
+            "subject": 216,
+            "value4": "B+",
+            "value5": 7,
+            "value6": 14,
+            "type": "Vocational",
+            "courseCredit": 2,
+            "courseCode": "Practical"
+          },
+          {
+            "value7": 67,
+            "value3": "[67 / 100]",
+            "sum": 67,
+            "subject": 239,
+            "value4": "B+",
+            "value5": 7,
+            "value6": 28,
+            "courseTypeCode": "INT/PROJ",
+            "rowspan": 1
+          },
+          {
+            "totalCredit": 40,
+            "totalGainCredit": 34,
+            "totalCreditPoints": 226
+          },
+          {
+            "value1": 34
+          },
+          {
+            "totalGainCredit": 34
+          },
+          {
+            "value1": 226
+          },
+          {
+            "totalCreditPoints": 226
+          },
+          {
+            "value1": "Supplementary"
+          },
+          {
+            "result": "Supplementary"
+          },
+          {
+            "value1": "5.65"
+          },
+          {
+            "totalCredit": 40,
+            "totalCreditPoints": 226,
+            "sgpa": "5.65",
+            "totalGainCredit": 34
+          },
+          {
+            "value1": "Supple.: DM-TH, "
+          },
+          {
+            "remark": "Supple.: DM-TH, "
+          },
+          {
+            "sem": "Decimal('6.70')"
+          }
+        ],
+        "results": [
+          {
+            "name": "Total Credits",
+            "data": [40, "", ""]
+          },
+          {
+            "name": "CGPA",
+            "data": "Decimal('6.70')"
+          },
+          {
+            "name": "Attempt",
+            "data": [1, "", ""]
+          },
+          {
+            "name": "Result",
+            "data": ["PASS", "", ""]
+          }
+        ]
+      },
+      {
+        "sno": 6,
+        "pic": "/uploads/2021-22/ug/2101070323.jpg",
+        "semesterName": 1,
+        "rollNumber": "2101070323",
+        "student": {
+          "id": 1481,
+          "student_class_student": 1481,
+          "student_subject_student": 12,
+          "student_subject_student__majorSubject": 53,
+          "student_subject_student__minorSubject": 39,
+          "student_subject_student__openElectiveSubject": 41,
+          "student_subject_student__trainingSubject": 36
+        },
+        "enrollment": "R21004P3590002",
+        "name": {
+          "name": "PRAGYA NAMDEO",
+          "father": "SAJAL KUMAR NAMDEO",
+          "mother": "PRATIBHA",
+          "uniqueNumber": "21/MGMY/00997"
+        },
+        "marksList": [
+          {
+            "value1": 30,
+            "value3": "[57 / 100]",
+            "sum": 57,
+            "subject": 208,
+            "value4": "B",
+            "value5": 6,
+            "value6": 24,
+            "value2": 27,
+            "courseTypeCode": "MJ-I",
+            "rowspan": 2
+          },
+          {
+            "value7": 64,
+            "value3": "[90 / 100]",
+            "sum": 90,
+            "subject": 209,
+            "value4": "O",
+            "value5": 10,
+            "value6": 20,
+            "value2": 26
+          },
+          {
+            "value1": 37,
+            "value3": "[64 / 100]",
+            "sum": 64,
+            "subject": 210,
+            "value4": "B+",
+            "value5": 7,
+            "value6": 28,
+            "value2": 27,
+            "courseTypeCode": "MJ-II",
+            "rowspan": 2
+          },
+          {
+            "value7": 63,
+            "value3": "[90 / 100]",
+            "sum": 90,
+            "subject": 211,
+            "value4": "O",
+            "value5": 10,
+            "value6": 20,
+            "value2": 27
+          },
+          {
+            "value1": 39,
+            "value3": "[66 / 100]",
+            "sum": 66,
+            "subject": 213,
+            "value4": "B+",
+            "value5": 7,
+            "value6": 28,
+            "value2": 27,
+            "courseTypeCode": "MN",
+            "rowspan": 2
+          },
+          {
+            "value7": 58,
+            "value3": "[85 / 100]",
+            "sum": 85,
+            "subject": 214,
+            "value4": "A+",
+            "value5": 9,
+            "value6": 18,
+            "value2": 27
+          },
+          {
+            "value1": 64,
+            "value3": "[92 / 100]",
+            "sum": 92,
+            "subject": 215,
+            "value4": "O",
+            "value5": 10,
+            "value6": 60,
+            "value2": 28,
+            "courseTypeCode": "EL",
+            "rowspan": 1
+          },
+          {
+            "value7": 38,
+            "value1": 30,
+            "sum": 68,
+            "subject": 79,
+            "subject1": 78,
+            "total": 4,
+            "subjectType": "FC",
+            "value3": "[68 / 100]",
+            "value4": "B+",
+            "value5": 7,
+            "value6": 28,
+            "courseTypeCode": "FC-I",
+            "rowspan": 2
+          },
+          {
+            "value7": 33,
+            "value1": 34,
+            "sum": 67,
+            "subject": 81,
+            "subject1": 80,
+            "total": 4,
+            "subjectType": "FC",
+            "value3": "[67 / 100]",
+            "value4": "B+",
+            "value5": 7,
+            "value6": 28,
+            "courseTypeCode": "FC-II",
+            "rowspan": 2
+          },
+          {
+            "value1": 45,
+            "value2": 28,
+            "sum": 73,
+            "value3": "[73 / 100]",
+            "subject": 216,
+            "value4": "A",
+            "value5": 8,
+            "value6": 16,
+            "type": "Vocational",
+            "courseCredit": 2,
+            "rowspan": 2,
+            "courseTypeCode": "VOC",
+            "courseCode": "Theory"
+          },
+          {
+            "value7": 90,
+            "sum": 90,
+            "value3": "[90 / 100]",
+            "subject": 216,
+            "value4": "O",
+            "value5": 10,
+            "value6": 20,
+            "type": "Vocational",
+            "courseCredit": 2,
+            "courseCode": "Practical"
+          },
+          {
+            "value7": 87,
+            "value3": "[87 / 100]",
+            "sum": 87,
+            "subject": 239,
+            "value4": "A+",
+            "value5": 9,
+            "value6": 36,
+            "courseTypeCode": "INT/PROJ",
+            "rowspan": 1
+          },
+          {
+            "totalCredit": 40,
+            "totalGainCredit": 40,
+            "totalCreditPoints": 326
+          },
+          {
+            "value1": 40
+          },
+          {
+            "totalGainCredit": 40
+          },
+          {
+            "value1": 326
+          },
+          {
+            "totalCreditPoints": 326
+          },
+          {
+            "value1": "PASS"
+          },
+          {
+            "result": "PASS"
+          },
+          {
+            "value1": "8.15"
+          },
+          {
+            "totalCredit": 40,
+            "totalCreditPoints": 326,
+            "sgpa": "8.15",
+            "totalGainCredit": 40
+          },
+          {
+            "value1": ""
+          },
+          {
+            "remark": ""
+          },
+          {
+            "sem": "Decimal(8.15)"
+          }
+        ],
+        "results": [
+          {
+            "name": "Total Credits",
+            "data": [40, "", ""]
+          },
+          {
+            "name": "CGPA",
+            "data": "Decimal('8.15')"
+          },
+          {
+            "name": "Attempt",
+            "data": [1, "", ""]
+          },
+          {
+            "name": "Result",
+            "data": ["PASS", "", ""]
+          }
+        ]
+      },
+      {
+        "sno": 7,
+        "pic": "/uploads/2021-22/ug/2101070324.jpg",
+        "semesterName": 1,
+        "rollNumber": "2101070324",
+        "student": {
+          "id": 1188,
+          "student_class_student": 1188,
+          "student_subject_student": 10,
+          "student_subject_student__majorSubject": 53,
+          "student_subject_student__minorSubject": 39,
+          "student_subject_student__openElectiveSubject": 41,
+          "student_subject_student__trainingSubject": 36
+        },
+        "enrollment": "R21004P3590010",
+        "name": {
+          "name": "PRIYA GUPTA",
+          "father": "SANTOSH GUPTA",
+          "mother": "ANJU GUPTA",
+          "uniqueNumber": "21/MGMY/00708"
+        },
+        "marksList": [
+          {
+            "value1": 28,
+            "value3": "[49 / 100]",
+            "sum": 49,
+            "subject": 208,
+            "value4": "C",
+            "value5": 5,
+            "value6": 20,
+            "value2": 21,
+            "courseTypeCode": "MJ-I",
+            "rowspan": 2
+          },
+          {
+            "value7": 53,
+            "value3": "[73 / 100]",
+            "sum": 73,
+            "subject": 209,
+            "value4": "A",
+            "value5": 8,
+            "value6": 16,
+            "value2": 20
+          },
+          {
+            "value1": 25,
+            "value3": "[44 / 100]",
+            "sum": 44,
+            "subject": 210,
+            "value4": "C",
+            "value5": 5,
+            "value6": 20,
+            "value2": 19,
+            "courseTypeCode": "MJ-II",
+            "rowspan": 2
+          },
+          {
+            "value7": 55,
+            "value3": "[79 / 100]",
+            "sum": 79,
+            "subject": 211,
+            "value4": "A",
+            "value5": 8,
+            "value6": 16,
+            "value2": 24
+          },
+          {
+            "value1": 31,
+            "value3": "[55 / 100]",
+            "sum": 55,
+            "subject": 213,
+            "value4": "B",
+            "value5": 6,
+            "value6": 24,
+            "value2": 24,
+            "courseTypeCode": "MN",
+            "rowspan": 2
+          },
+          {
+            "value7": 61,
+            "value3": "[85 / 100]",
+            "sum": 85,
+            "subject": 214,
+            "value4": "A+",
+            "value5": 9,
+            "value6": 18,
+            "value2": 24
+          },
+          {
+            "value1": 33,
+            "value3": "[60 / 100]",
+            "sum": 60,
+            "subject": 215,
+            "value4": "B+",
+            "value5": 7,
+            "value6": 42,
+            "value2": 27,
+            "courseTypeCode": "EL",
+            "rowspan": 1
+          },
+          {
+            "value7": 22,
+            "value1": 30,
+            "sum": 52,
+            "subject": 79,
+            "subject1": 78,
+            "total": 4,
+            "subjectType": "FC",
+            "value3": "[52 / 100]",
+            "value4": "B",
+            "value5": 6,
+            "value6": 24,
+            "courseTypeCode": "FC-I",
+            "rowspan": 2
+          },
+          {
+            "value7": 31,
+            "value1": 26,
+            "sum": 57,
+            "subject": 81,
+            "subject1": 80,
+            "total": 4,
+            "subjectType": "FC",
+            "value3": "[57 / 100]",
+            "value4": "B",
+            "value5": 6,
+            "value6": 24,
+            "courseTypeCode": "FC-II",
+            "rowspan": 2
+          },
+          {
+            "value1": 32,
+            "value2": 25,
+            "sum": 57,
+            "value3": "[57 / 100]",
+            "subject": 216,
+            "value4": "B",
+            "value5": 6,
+            "value6": 12,
+            "type": "Vocational",
+            "courseCredit": 2,
+            "rowspan": 2,
+            "courseTypeCode": "VOC",
+            "courseCode": "Theory"
+          },
+          {
+            "value7": 79,
+            "sum": 79,
+            "value3": "[79 / 100]",
+            "subject": 216,
+            "value4": "A",
+            "value5": 8,
+            "value6": 16,
+            "type": "Vocational",
+            "courseCredit": 2,
+            "courseCode": "Practical"
+          },
+          {
+            "value7": 72,
+            "value3": "[72 / 100]",
+            "sum": 72,
+            "subject": 239,
+            "value4": "A",
+            "value5": 8,
+            "value6": 32,
+            "courseTypeCode": "INT/PROJ",
+            "rowspan": 1
+          },
+          {
+            "totalCredit": 40,
+            "totalGainCredit": 40,
+            "totalCreditPoints": 264
+          },
+          {
+            "value1": 40
+          },
+          {
+            "totalGainCredit": 40
+          },
+          {
+            "value1": 264
+          },
+          {
+            "totalCreditPoints": 264
+          },
+          {
+            "value1": "PASS"
+          },
+          {
+            "result": "PASS"
+          },
+          {
+            "value1": "6.60"
+          },
+          {
+            "totalCredit": 40,
+            "totalCreditPoints": 264,
+            "sgpa": "6.60",
+            "totalGainCredit": 40
+          },
+          {
+            "value1": ""
+          },
+          {
+            "remark": ""
+          },
+          {
+            "sem": "Decimal('6.60')"
+          }
+        ],
+        "results": [
+          {
+            "name": "Total Credits",
+            "data": [40, "", ""]
+          },
+          {
+            "name": "CGPA",
+            "data": "Decimal(6.60)"
+          },
+          {
+            "name": "Attempt",
+            "data": [1, "", ""]
+          },
+          {
+            "name": "Result",
+            "data": ["PASS", "", ""]
+          }
+        ]
+      }
+    ],
+    "page_number_display": "True",
+    "subjects": [
+      {
+        "id": 208,
+        "fullName": "Computer fundamentals, Organization and Architecture",
+        "paperType": "Paper-1",
+        "type": "Paper-1",
+        "name": "S1-BCAA1T",
+        "subject": 208,
+        "groupSubjects": "<Master: BCA>",
+        "alias": "bca",
+        "sequance": 1,
+        "courseCredit": 4,
+        "credit": 4,
+        "className": "B.C.A",
+        "courseCode": "CFO & A",
+        "maxMarks": {
+          "theory": 70,
+          "total": 100,
+          "cce": 30
+        },
+        "minMarks": {
+          "theory": 25,
+          "total": 35,
+          "cce": 10
+        },
+        "courseType": "Major-I",
+        "courseTypeCode": "MJ-I",
+        "rowspan": 2
+      },
+      {
+        "id": 209,
+        "fullName": "Computer Fundamentals and Digital Lab",
+        "paperType": "Paper-1",
+        "type": "Paper-1",
+        "name": "S1-BCAA1P",
+        "subject": 209,
+        "groupSubjects": "<Master: BCA>",
+        "alias": "bca",
+        "sequance": 2,
+        "courseCredit": 2,
+        "credit": 2,
+        "className": "B.C.A",
+        "courseCode": "CF & D",
+        "maxMarks": {
+          "practical": 70,
+          "total": 100,
+          "cce": 30
+        },
+        "minMarks": {
+          "practical": 25,
+          "total": 35,
+          "cce": 10
+        }
+      },
+      {
+        "id": 210,
+        "fullName": "Programming Methodology & Data Sturctures",
+        "paperType": "Paper-2",
+        "type": "Paper-2",
+        "name": "S1-BCAA2T",
+        "subject": 210,
+        "groupSubjects": "<Master: BCA>",
+        "alias": "bca",
+        "sequance": 3,
+        "courseCredit": 4,
+        "credit": 4,
+        "className": "B.C.A",
+        "courseCode": "PM & DS",
+        "maxMarks": {
+          "theory": 70,
+          "total": 100,
+          "cce": 30
+        },
+        "minMarks": {
+          "theory": 25,
+          "total": 35,
+          "cce": 10
+        },
+        "courseType": "Major-II",
+        "courseTypeCode": "MJ-II",
+        "rowspan": 2
+      },
+      {
+        "id": 211,
+        "fullName": "Programming Methodology & Data Sturctures Lab",
+        "paperType": "Paper-2",
+        "type": "Paper-2",
+        "name": "S1-BCAA2P",
+        "subject": 211,
+        "groupSubjects": "<Master: BCA>",
+        "alias": "bca",
+        "sequance": 4,
+        "courseCredit": 2,
+        "credit": 2,
+        "className": "B.C.A",
+        "courseCode": "PM & DSL",
+        "maxMarks": {
+          "practical": 70,
+          "total": 100,
+          "cce": 30
+        },
+        "minMarks": {
+          "practical": 25,
+          "total": 35,
+          "cce": 10
+        }
+      },
+      {
+        "id": 213,
+        "fullName": "Operating System",
+        "paperType": "Minor",
+        "type": "Minor",
+        "name": "S1-BCAB2T",
+        "subject": 213,
+        "groupSubjects": "<Master: Operating System>",
+        "alias": "operating_system",
+        "sequance": 5,
+        "courseCredit": 4,
+        "credit": 4,
+        "className": "B.C.A",
+        "courseCode": "OS",
+        "maxMarks": {
+          "theory": 70,
+          "total": 100,
+          "cce": 30
+        },
+        "minMarks": {
+          "theory": 25,
+          "total": 35,
+          "cce": 10
+        },
+        "rowspan": 2,
+        "courseType": "Minor-I",
+        "courseTypeCode": "MN"
+      },
+      {
+        "id": 214,
+        "fullName": "Operating System Lab",
+        "paperType": "Minor",
+        "type": "Minor",
+        "name": "S1-BCAB2P",
+        "subject": 214,
+        "groupSubjects": "<Master: Operating System>",
+        "alias": "operating_system",
+        "sequance": 6,
+        "courseCredit": 2,
+        "credit": 2,
+        "className": "B.C.A",
+        "courseCode": "OSL",
+        "maxMarks": {
+          "practical": 70,
+          "total": 100,
+          "cce": 30
+        },
+        "minMarks": {
+          "practical": 25,
+          "total": 35,
+          "cce": 10
+        },
+        "courseType": "Minor-II",
+        "courseTypeCode": "MN"
+      },
+      {
+        "id": 215,
+        "fullName": "Discrete Mathematics",
+        "paperType": "OE",
+        "type": "OE",
+        "name": "S1-BCAC2G",
+        "subject": 215,
+        "groupSubjects": "<Master: Discrete Mathematics>",
+        "alias": "discrete_methematics",
+        "sequance": 7,
+        "courseCredit": 6,
+        "credit": 6,
+        "className": "B.C.A",
+        "courseCode": "DM",
+        "maxMarks": {
+          "theory": 70,
+          "total": 100,
+          "cce": 30
+        },
+        "minMarks": {
+          "theory": 25,
+          "total": 35,
+          "cce": 10
+        },
+        "rowspan": 1,
+        "courseType": "Elective-I",
+        "courseTypeCode": "EL"
+      },
+      {
+        "id": 79,
+        "fullName": "English Language & Indian Culture",
+        "type": "Paper-1",
+        "name": "Paper-1",
+        "subject": 79,
+        "groupSubjects": "<Master: Foundation Course>",
+        "alias": "foundation_course",
+        "sequance": 8,
+        "courseCredit": 2,
+        "credit": 4,
+        "className": "Common-1",
+        "paper": "Paper-1",
+        "courseCode": "EL & IC",
+        "maxMarks": {
+          "theory": 50,
+          "total": 100,
+          "theory1": 50
+        },
+        "minMarks": {
+          "theory": 17,
+          "total": 35,
+          "theory1": 18
+        },
+        "tCourceCode": "B & S",
+        "courseType": "FC-I",
+        "courseTypeCode": "FC-I",
+        "rowspan": 2
+      },
+      {
+        "id": 81,
+        "fullName": "Yoga and Meditation",
+        "type": "Paper-2",
+        "name": "Paper-2",
+        "subject": 81,
+        "groupSubjects": "<Master: Foundation Course>",
+        "alias": "foundation_course",
+        "sequance": 9,
+        "courseCredit": 2,
+        "credit": 4,
+        "className": "Common-1",
+        "paper": "Paper-2",
+        "courseCode": "Y & M",
+        "maxMarks": {
+          "theory": 50,
+          "total": 100,
+          "theory1": 50
+        },
+        "minMarks": {
+          "theory": 17,
+          "total": 35,
+          "theory1": 18
+        },
+        "tCourceCode": "EE",
+        "courseType": "FC-II",
+        "courseTypeCode": "FC-II",
+        "rowspan": 2
+      },
+      {
+        "id": 216,
+        "fullName": "Web Designing",
+        "type": "Vocational",
+        "name": "V1-COS-WEBT-TH",
+        "subject": 216,
+        "groupSubjects": "<Master: Web Designing>",
+        "alias": "web_designing",
+        "sequance": 10,
+        "courseCredit": 2,
+        "credit": 2,
+        "className": "B.C.A",
+        "vPaper": "Vocational-TH",
+        "courseCode": "WD",
+        "maxMarks": {
+          "theory": 70,
+          "total": 100,
+          "cce": 30
+        },
+        "minMarks": {
+          "theory": 25,
+          "total": 35,
+          "cce": 10
+        },
+        "courseType": "Vocational-II",
+        "courseTypeCode": "VOC",
+        "rowspan": 2
+      },
+      {
+        "id": 216,
+        "fullName": "Web Designing",
+        "type": "Vocational",
+        "name": "V1-COS-WEBT-PR",
+        "subject": 216,
+        "groupSubjects": "<Master: Web Designing>",
+        "alias": "web_designing",
+        "sequance": 11,
+        "courseCredit": 2,
+        "credit": 2,
+        "className": "B.C.A",
+        "vPaper": "Vocational-PR",
+        "courseCode": "WD-PR",
+        "maxMarks": {
+          "practical": 100,
+          "total": 100
+        },
+        "minMarks": {
+          "practical": 40,
+          "total": 40
+        },
+        "courseType": "Vocational-II"
+      },
+      {
+        "id": 239,
+        "fullName": "Internship/Project",
+        "paperType": "Internship",
+        "type": "Internship",
+        "name": "INTERNSHIP",
+        "subject": 239,
+        "groupSubjects": "<Master: Internship>",
+        "alias": "internship",
+        "sequance": 16,
+        "courseCredit": 4,
+        "credit": 4,
+        "className": "Common-1",
+        "courseCode": "INTERNSHIP",
+        "maxMarks": {
+          "practical": 100,
+          "total": 100
+        },
+        "minMarks": {
+          "practical": 35,
+          "total": 35
+        },
+        "courseType": "INT/PROJ",
+        "courseTypeCode": "INT/PROJ",
+        "rowspan": 1
+      }
+    ],
+    "columns": [
+      {
+        "name": "Major",
+        "columns": 24,
+        "row": 4,
+        "short_code": "MJ"
+      },
+      {
+        "name": "Minor",
+        "columns": 12,
+        "row": 2,
+        "short_code": "MN"
+      },
+      {
+        "name": "Elective",
+        "columns": 6,
+        "row": 1,
+        "short_code": "EL"
+      },
+      {
+        "name": "Foundation Course",
+        "columns": 12,
+        "row": 2,
+        "short_code": "FC"
+      },
+      {
+        "name": "Vocational",
+        "columns": 11,
+        "row": 2,
+        "short_code": "VOC"
+      },
+      {
+        "name": "Internship",
+        "columns": 5,
+        "row": 1,
+        "short_code": "INT/PROJ"
+      },
+      {
+        "name": "Total",
+        "columns": 5,
+        "row": 1
+      }
+    ],
+    "group": "<Group: B.C.A->BCA>"
+  },
+  {
+    "page_number": 3,
+    "students": [
+      {
+        "sno": 8,
+        "pic": "/uploads/2021-22/ug/2101070326.jpg",
+        "semesterName": 1,
+        "rollNumber": "2101070326",
+        "student": {
+          "id": 1486,
+          "student_class_student": 1486,
+          "student_subject_student": 14,
+          "student_subject_student__majorSubject": 53,
+          "student_subject_student__minorSubject": 39,
+          "student_subject_student__openElectiveSubject": 41,
+          "student_subject_student__trainingSubject": 36
+        },
+        "enrollment": "R21004P3590004",
+        "name": {
+          "name": "SAMRIDDHI DHANGAR",
+          "father": "MANISH DHANGAR",
+          "mother": "AMITA",
+          "uniqueNumber": "21/MGMY/01002"
+        },
+        "marksList": [
+          {
+            "value1": 32,
+            "value3": "[55 / 100]",
+            "sum": 55,
+            "subject": 208,
+            "value4": "B",
+            "value5": 6,
+            "value6": 24,
+            "value2": 23,
+            "courseTypeCode": "MJ-I",
+            "rowspan": 2
+          },
+          {
+            "value7": 60,
+            "value3": "[86 / 100]",
+            "sum": 86,
+            "subject": 209,
+            "value4": "A+",
+            "value5": 9,
+            "value6": 18,
+            "value2": 26
+          },
+          {
+            "value1": 45,
+            "value3": "[71 / 100]",
+            "sum": 71,
+            "subject": 210,
+            "value4": "A",
+            "value5": 8,
+            "value6": 32,
+            "value2": 26,
+            "courseTypeCode": "MJ-II",
+            "rowspan": 2
+          },
+          {
+            "value7": 58,
+            "value3": "[84 / 100]",
+            "sum": 84,
+            "subject": 211,
+            "value4": "A+",
+            "value5": 9,
+            "value6": 18,
+            "value2": 26
+          },
+          {
+            "value1": 43,
+            "value3": "[68 / 100]",
+            "sum": 68,
+            "subject": 213,
+            "value4": "B+",
+            "value5": 7,
+            "value6": 28,
+            "value2": 25,
+            "courseTypeCode": "MN",
+            "rowspan": 2
+          },
+          {
+            "value7": 62,
+            "value3": "[88 / 100]",
+            "sum": 88,
+            "subject": 214,
+            "value4": "A+",
+            "value5": 9,
+            "value6": 18,
+            "value2": 26
+          },
+          {
+            "value1": 48,
+            "value3": "[72 / 100]",
+            "sum": 72,
+            "subject": 215,
+            "value4": "A",
+            "value5": 8,
+            "value6": 48,
+            "value2": 24,
+            "courseTypeCode": "EL",
+            "rowspan": 1
+          },
+          {
+            "value7": 28,
+            "value1": 34,
+            "sum": 62,
+            "subject": 79,
+            "subject1": 78,
+            "total": 4,
+            "subjectType": "FC",
+            "value3": "[62 / 100]",
+            "value4": "B+",
+            "value5": 7,
+            "value6": 28,
+            "courseTypeCode": "FC-I",
+            "rowspan": 2
+          },
+          {
+            "value7": 35,
+            "value1": 28,
+            "sum": 63,
+            "subject": 81,
+            "subject1": 80,
+            "total": 4,
+            "subjectType": "FC",
+            "value3": "[63 / 100]",
+            "value4": "B+",
+            "value5": 7,
+            "value6": 28,
+            "courseTypeCode": "FC-II",
+            "rowspan": 2
+          },
+          {
+            "value1": 40,
+            "value2": 27,
+            "sum": 67,
+            "value3": "[67 / 100]",
+            "subject": 216,
+            "value4": "B+",
+            "value5": 7,
+            "value6": 14,
+            "type": "Vocational",
+            "courseCredit": 2,
+            "rowspan": 2,
+            "courseTypeCode": "VOC",
+            "courseCode": "Theory"
+          },
+          {
+            "value7": 86,
+            "sum": 86,
+            "value3": "[86 / 100]",
+            "subject": 216,
+            "value4": "A+",
+            "value5": 9,
+            "value6": 18,
+            "type": "Vocational",
+            "courseCredit": 2,
+            "courseCode": "Practical"
+          },
+          {
+            "value7": 80,
+            "value3": "[80 / 100]",
+            "sum": 80,
+            "subject": 239,
+            "value4": "A+",
+            "value5": 9,
+            "value6": 36,
+            "courseTypeCode": "INT/PROJ",
+            "rowspan": 1
+          },
+          {
+            "totalCredit": 40,
+            "totalGainCredit": 40,
+            "totalCreditPoints": 310
+          },
+          {
+            "value1": 40
+          },
+          {
+            "totalGainCredit": 40
+          },
+          {
+            "value1": 310
+          },
+          {
+            "totalCreditPoints": 310
+          },
+          {
+            "value1": "PASS"
+          },
+          {
+            "result": "PASS"
+          },
+          {
+            "value1": "7.75"
+          },
+          {
+            "totalCredit": 40,
+            "totalCreditPoints": 310,
+            "sgpa": "7.75",
+            "totalGainCredit": 40
+          },
+          {
+            "value1": ""
+          },
+          {
+            "remark": ""
+          },
+          {
+            "sem": "Decimal('7.75')"
+          }
+        ],
+        "results": [
+          {
+            "name": "Total Credits",
+            "data": [40, "", ""]
+          },
+          {
+            "name": "CGPA",
+            "data": "Decimal('7.75')"
+          },
+          {
+            "name": "Attempt",
+            "data": [1, "", ""]
+          },
+          {
+            "name": "Result",
+            "data": ["PASS", "", ""]
+          }
+        ]
+      },
+      {
+        "sno": 9,
+        "pic": "/uploads/2021-22/ug/2101070327.jpg",
+        "semesterName": 1,
+        "rollNumber": "2101070327",
+        "student": {
+          "id": 1497,
+          "student_class_student": 1497,
+          "student_subject_student": 17,
+          "student_subject_student__majorSubject": 53,
+          "student_subject_student__minorSubject": 39,
+          "student_subject_student__openElectiveSubject": 41,
+          "student_subject_student__trainingSubject": 36
+        },
+        "enrollment": "R21004P3590007",
+        "name": {
+          "name": "SHREYA JAIN",
+          "father": "SANJAY JAIN",
+          "mother": "SHOBHANA JAIN",
+          "uniqueNumber": "21/MGMY/01013"
+        },
+        "marksList": [
+          {
+            "value1": 32,
+            "value3": "[56 / 100]",
+            "sum": 56,
+            "subject": 208,
+            "value4": "B",
+            "value5": 6,
+            "value6": 24,
+            "value2": 24,
+            "courseTypeCode": "MJ-I",
+            "rowspan": 2
+          },
+          {
+            "value7": 53,
+            "value3": "[75 / 100]",
+            "sum": 75,
+            "subject": 209,
+            "value4": "A",
+            "value5": 8,
+            "value6": 16,
+            "value2": 22
+          },
+          {
+            "value1": 45,
+            "value3": "[67 / 100]",
+            "sum": 67,
+            "subject": 210,
+            "value4": "B+",
+            "value5": 7,
+            "value6": 28,
+            "value2": 22,
+            "courseTypeCode": "MJ-II",
+            "rowspan": 2
+          },
+          {
+            "value7": 53,
+            "value3": "[75 / 100]",
+            "sum": 75,
+            "subject": 211,
+            "value4": "A",
+            "value5": 8,
+            "value6": 16,
+            "value2": 22
+          },
+          {
+            "value1": 39,
+            "value3": "[62 / 100]",
+            "sum": 62,
+            "subject": 213,
+            "value4": "B+",
+            "value5": 7,
+            "value6": 28,
+            "value2": 23,
+            "courseTypeCode": "MN",
+            "rowspan": 2
+          },
+          {
+            "value7": 56,
+            "value3": "[78 / 100]",
+            "sum": 78,
+            "subject": 214,
+            "value4": "A",
+            "value5": 8,
+            "value6": 16,
+            "value2": 22
+          },
+          {
+            "value1": 47,
+            "value3": "[76 / 100]",
+            "sum": 76,
+            "subject": 215,
+            "value4": "A",
+            "value5": 8,
+            "value6": 48,
+            "value2": 29,
+            "courseTypeCode": "EL",
+            "rowspan": 1
+          },
+          {
+            "value7": 26,
+            "value1": 31,
+            "sum": 57,
+            "subject": 79,
+            "subject1": 78,
+            "total": 4,
+            "subjectType": "FC",
+            "value3": "[57 / 100]",
+            "value4": "B",
+            "value5": 6,
+            "value6": 24,
+            "courseTypeCode": "FC-I",
+            "rowspan": 2
+          },
+          {
+            "value7": 29,
+            "value1": 28,
+            "sum": 57,
+            "subject": 81,
+            "subject1": 80,
+            "total": 4,
+            "subjectType": "FC",
+            "value3": "[57 / 100]",
+            "value4": "B",
+            "value5": 6,
+            "value6": 24,
+            "courseTypeCode": "FC-II",
+            "rowspan": 2
+          },
+          {
+            "value1": 34,
+            "value2": 26,
+            "sum": 60,
+            "value3": "[60 / 100]",
+            "subject": 216,
+            "value4": "B+",
+            "value5": 7,
+            "value6": 14,
+            "type": "Vocational",
+            "courseCredit": 2,
+            "rowspan": 2,
+            "courseTypeCode": "VOC",
+            "courseCode": "Theory"
+          },
+          {
+            "value7": 76,
+            "sum": 76,
+            "value3": "[76 / 100]",
+            "subject": 216,
+            "value4": "A",
+            "value5": 8,
+            "value6": 16,
+            "type": "Vocational",
+            "courseCredit": 2,
+            "courseCode": "Practical"
+          },
+          {
+            "value7": 73,
+            "value3": "[73 / 100]",
+            "sum": 73,
+            "subject": 239,
+            "value4": "A",
+            "value5": 8,
+            "value6": 32,
+            "courseTypeCode": "INT/PROJ",
+            "rowspan": 1
+          },
+          {
+            "totalCredit": 40,
+            "totalGainCredit": 40,
+            "totalCreditPoints": 286
+          },
+          {
+            "value1": 40
+          },
+          {
+            "totalGainCredit": 40
+          },
+          {
+            "value1": 286
+          },
+          {
+            "totalCreditPoints": 286
+          },
+          {
+            "value1": "PASS"
+          },
+          {
+            "result": "PASS"
+          },
+          {
+            "value1": "7.15"
+          },
+          {
+            "totalCredit": 40,
+            "totalCreditPoints": 286,
+            "sgpa": "7.15",
+            "totalGainCredit": 40
+          },
+          {
+            "value1": ""
+          },
+          {
+            "remark": ""
+          },
+          {
+            "sem": "Decimal('7.15')"
+          }
+        ],
+        "results": [
+          {
+            "name": "Total Credits",
+            "data": [40, "", ""]
+          },
+          {
+            "name": "CGPA",
+            "data": "Decimal('7.15')"
+          },
+          {
+            "name": "Attempt",
+            "data": [1, "", ""]
+          },
+          {
+            "name": "Result",
+            "data": ["PASS", "", ""]
+          }
+        ]
+      },
+      {
+        "sno": 10,
+        "pic": "/uploads/2021-22/ug/2101071166.jpg",
+        "semesterName": 1,
+        "rollNumber": "2101071166",
+        "student": {
+          "id": 1646,
+          "student_class_student": 2070,
+          "student_subject_student": 20,
+          "student_subject_student__majorSubject": 53,
+          "student_subject_student__minorSubject": 39,
+          "student_subject_student__openElectiveSubject": 41,
+          "student_subject_student__trainingSubject": 36
+        },
+        "enrollment": "R21004P3590009",
+        "name": {
+          "name": "TARANGNI GUPTA",
+          "father": "PRADEEP GUPTA",
+          "mother": "BHARTI GUPTA",
+          "uniqueNumber": "21/MGMY/01223"
+        },
+        "marksList": [
+          {
+            "value1": 28,
+            "value3": "[47 / 100]",
+            "sum": 47,
+            "subject": 208,
+            "value4": "C",
+            "value5": 5,
+            "value6": 20,
+            "value2": 19,
+            "courseTypeCode": "MJ-I",
+            "rowspan": 2
+          },
+          {
+            "value7": 48,
+            "value3": "[70 / 100]",
+            "sum": 70,
+            "subject": 209,
+            "value4": "A",
+            "value5": 8,
+            "value6": 16,
+            "value2": 22
+          },
+          {
+            "value1": 26,
+            "value3": "[47 / 100]",
+            "sum": 47,
+            "subject": 210,
+            "value4": "C",
+            "value5": 5,
+            "value6": 20,
+            "value2": 21,
+            "courseTypeCode": "MJ-II",
+            "rowspan": 2
+          },
+          {
+            "value7": 48,
+            "value3": "[68 / 100]",
+            "sum": 68,
+            "subject": 211,
+            "value4": "B+",
+            "value5": 7,
+            "value6": 14,
+            "value2": 20
+          },
+          {
+            "value1": 28,
+            "value3": "[49 / 100]",
+            "sum": 49,
+            "subject": 213,
+            "value4": "C",
+            "value5": 5,
+            "value6": 20,
+            "value2": 21,
+            "courseTypeCode": "MN",
+            "rowspan": 2
+          },
+          {
+            "value7": 48,
+            "value3": "[68 / 100]",
+            "sum": 68,
+            "subject": 214,
+            "value4": "B+",
+            "value5": 7,
+            "value6": 14,
+            "value2": 20
+          },
+          {
+            "value1": 6,
+            "value3": "[24 F / 100]",
+            "sum": 24,
+            "subject": 215,
+            "value4": "F",
+            "value5": 0,
+            "value6": 0,
+            "value2": 18,
+            "courseTypeCode": "EL",
+            "rowspan": 1
+          },
+          {
+            "value7": 15,
+            "value1": 32,
+            "sum": 47,
+            "subject": 79,
+            "subject1": 78,
+            "total": 4,
+            "subjectType": "FC",
+            "value3": "[47 / 100]",
+            "value4": "C",
+            "value5": 5,
+            "value6": 20,
+            "courseTypeCode": "FC-I",
+            "rowspan": 2
+          },
+          {
+            "value7": 36,
+            "value1": 19,
+            "sum": 55,
+            "subject": 81,
+            "subject1": 80,
+            "total": 4,
+            "subjectType": "FC",
+            "value3": "[55 / 100]",
+            "value4": "B",
+            "value5": 6,
+            "value6": 24,
+            "courseTypeCode": "FC-II",
+            "rowspan": 2
+          },
+          {
+            "value1": 28,
+            "value2": 20,
+            "sum": 48,
+            "value3": "[48 / 100]",
+            "subject": 216,
+            "value4": "C",
+            "value5": 5,
+            "value6": 10,
+            "type": "Vocational",
+            "courseCredit": 2,
+            "rowspan": 2,
+            "courseTypeCode": "VOC",
+            "courseCode": "Theory"
+          },
+          {
+            "value7": 68,
+            "sum": 68,
+            "value3": "[68 / 100]",
+            "subject": 216,
+            "value4": "B+",
+            "value5": 7,
+            "value6": 14,
+            "type": "Vocational",
+            "courseCredit": 2,
+            "courseCode": "Practical"
+          },
+          {
+            "value7": 68,
+            "value3": "[68 / 100]",
+            "sum": 68,
+            "subject": 239,
+            "value4": "B+",
+            "value5": 7,
+            "value6": 28,
+            "courseTypeCode": "INT/PROJ",
+            "rowspan": 1
+          },
+          {
+            "totalCredit": 40,
+            "totalGainCredit": 34,
+            "totalCreditPoints": 200
+          },
+          {
+            "value1": 34
+          },
+          {
+            "totalGainCredit": 34
+          },
+          {
+            "value1": 200
+          },
+          {
+            "totalCreditPoints": 200
+          },
+          {
+            "value1": "Supplementary"
+          },
+          {
+            "result": "Supplementary"
+          },
+          {
+            "value1": "5.00"
+          },
+          {
+            "totalCredit": 40,
+            "totalCreditPoints": 200,
+            "sgpa": "5.00",
+            "totalGainCredit": 34
+          },
+          {
+            "value1": "Supple.: DM-TH, "
+          },
+          {
+            "remark": "Supple.: DM-TH, "
+          },
+          {
+            "sem": "Decimal('5.75')"
+          }
+        ],
+        "results": [
+          {
+            "name": "Total Credits",
+            "data": [40, "", ""]
+          },
+          {
+            "name": "CGPA",
+            "data": "Decimal('5.75')"
+          },
+          {
+            "name": "Attempt",
+            "data": [1, "", ""]
+          },
+          {
+            "name": "Result",
+            "data": ["PASS", "", ""]
+          }
+        ]
+      }
+    ],
+    "page_number_display": "True",
+    "subjects": [
+      {
+        "id": 208,
+        "fullName": "Computer fundamentals, Organization and Architecture",
+        "paperType": "Paper-1",
+        "type": "Paper-1",
+        "name": "S1-BCAA1T",
+        "subject": 208,
+        "groupSubjects": "<Master: BCA>",
+        "alias": "bca",
+        "sequance": 1,
+        "courseCredit": 4,
+        "credit": 4,
+        "className": "B.C.A",
+        "courseCode": "CFO & A",
+        "maxMarks": {
+          "theory": 70,
+          "total": 100,
+          "cce": 30
+        },
+        "minMarks": {
+          "theory": 25,
+          "total": 35,
+          "cce": 10
+        },
+        "courseType": "Major-I",
+        "courseTypeCode": "MJ-I",
+        "rowspan": 2
+      },
+      {
+        "id": 209,
+        "fullName": "Computer Fundamentals and Digital Lab",
+        "paperType": "Paper-1",
+        "type": "Paper-1",
+        "name": "S1-BCAA1P",
+        "subject": 209,
+        "groupSubjects": "<Master: BCA>",
+        "alias": "bca",
+        "sequance": 2,
+        "courseCredit": 2,
+        "credit": 2,
+        "className": "B.C.A",
+        "courseCode": "CF & D",
+        "maxMarks": {
+          "practical": 70,
+          "total": 100,
+          "cce": 30
+        },
+        "minMarks": {
+          "practical": 25,
+          "total": 35,
+          "cce": 10
+        }
+      },
+      {
+        "id": 210,
+        "fullName": "Programming Methodology & Data Sturctures",
+        "paperType": "Paper-2",
+        "type": "Paper-2",
+        "name": "S1-BCAA2T",
+        "subject": 210,
+        "groupSubjects": "<Master: BCA>",
+        "alias": "bca",
+        "sequance": 3,
+        "courseCredit": 4,
+        "credit": 4,
+        "className": "B.C.A",
+        "courseCode": "PM & DS",
+        "maxMarks": {
+          "theory": 70,
+          "total": 100,
+          "cce": 30
+        },
+        "minMarks": {
+          "theory": 25,
+          "total": 35,
+          "cce": 10
+        },
+        "courseType": "Major-II",
+        "courseTypeCode": "MJ-II",
+        "rowspan": 2
+      },
+      {
+        "id": 211,
+        "fullName": "Programming Methodology & Data Sturctures Lab",
+        "paperType": "Paper-2",
+        "type": "Paper-2",
+        "name": "S1-BCAA2P",
+        "subject": 211,
+        "groupSubjects": "<Master: BCA>",
+        "alias": "bca",
+        "sequance": 4,
+        "courseCredit": 2,
+        "credit": 2,
+        "className": "B.C.A",
+        "courseCode": "PM & DSL",
+        "maxMarks": {
+          "practical": 70,
+          "total": 100,
+          "cce": 30
+        },
+        "minMarks": {
+          "practical": 25,
+          "total": 35,
+          "cce": 10
+        }
+      },
+      {
+        "id": 213,
+        "fullName": "Operating System",
+        "paperType": "Minor",
+        "type": "Minor",
+        "name": "S1-BCAB2T",
+        "subject": 213,
+        "groupSubjects": "<Master: Operating System>",
+        "alias": "operating_system",
+        "sequance": 5,
+        "courseCredit": 4,
+        "credit": 4,
+        "className": "B.C.A",
+        "courseCode": "OS",
+        "maxMarks": {
+          "theory": 70,
+          "total": 100,
+          "cce": 30
+        },
+        "minMarks": {
+          "theory": 25,
+          "total": 35,
+          "cce": 10
+        },
+        "rowspan": 2,
+        "courseType": "Minor-I",
+        "courseTypeCode": "MN"
+      },
+      {
+        "id": 214,
+        "fullName": "Operating System Lab",
+        "paperType": "Minor",
+        "type": "Minor",
+        "name": "S1-BCAB2P",
+        "subject": 214,
+        "groupSubjects": "<Master: Operating System>",
+        "alias": "operating_system",
+        "sequance": 6,
+        "courseCredit": 2,
+        "credit": 2,
+        "className": "B.C.A",
+        "courseCode": "OSL",
+        "maxMarks": {
+          "practical": 70,
+          "total": 100,
+          "cce": 30
+        },
+        "minMarks": {
+          "practical": 25,
+          "total": 35,
+          "cce": 10
+        },
+        "courseType": "Minor-II",
+        "courseTypeCode": "MN"
+      },
+      {
+        "id": 215,
+        "fullName": "Discrete Mathematics",
+        "paperType": "OE",
+        "type": "OE",
+        "name": "S1-BCAC2G",
+        "subject": 215,
+        "groupSubjects": "<Master: Discrete Mathematics>",
+        "alias": "discrete_methematics",
+        "sequance": 7,
+        "courseCredit": 6,
+        "credit": 6,
+        "className": "B.C.A",
+        "courseCode": "DM",
+        "maxMarks": {
+          "theory": 70,
+          "total": 100,
+          "cce": 30
+        },
+        "minMarks": {
+          "theory": 25,
+          "total": 35,
+          "cce": 10
+        },
+        "rowspan": 1,
+        "courseType": "Elective-I",
+        "courseTypeCode": "EL"
+      },
+      {
+        "id": 79,
+        "fullName": "English Language & Indian Culture",
+        "type": "Paper-1",
+        "name": "Paper-1",
+        "subject": 79,
+        "groupSubjects": "<Master: Foundation Course>",
+        "alias": "foundation_course",
+        "sequance": 8,
+        "courseCredit": 2,
+        "credit": 4,
+        "className": "Common-1",
+        "paper": "Paper-1",
+        "courseCode": "EL & IC",
+        "maxMarks": {
+          "theory": 50,
+          "total": 100,
+          "theory1": 50
+        },
+        "minMarks": {
+          "theory": 17,
+          "total": 35,
+          "theory1": 18
+        },
+        "tCourceCode": "B & S",
+        "courseType": "FC-I",
+        "courseTypeCode": "FC-I",
+        "rowspan": 2
+      },
+      {
+        "id": 81,
+        "fullName": "Yoga and Meditation",
+        "type": "Paper-2",
+        "name": "Paper-2",
+        "subject": 81,
+        "groupSubjects": "<Master: Foundation Course>",
+        "alias": "foundation_course",
+        "sequance": 9,
+        "courseCredit": 2,
+        "credit": 4,
+        "className": "Common-1",
+        "paper": "Paper-2",
+        "courseCode": "Y & M",
+        "maxMarks": {
+          "theory": 50,
+          "total": 100,
+          "theory1": 50
+        },
+        "minMarks": {
+          "theory": 17,
+          "total": 35,
+          "theory1": 18
+        },
+        "tCourceCode": "EE",
+        "courseType": "FC-II",
+        "courseTypeCode": "FC-II",
+        "rowspan": 2
+      },
+      {
+        "id": 216,
+        "fullName": "Web Designing",
+        "type": "Vocational",
+        "name": "V1-COS-WEBT-TH",
+        "subject": 216,
+        "groupSubjects": "<Master: Web Designing>",
+        "alias": "web_designing",
+        "sequance": 10,
+        "courseCredit": 2,
+        "credit": 2,
+        "className": "B.C.A",
+        "vPaper": "Vocational-TH",
+        "courseCode": "WD",
+        "maxMarks": {
+          "theory": 70,
+          "total": 100,
+          "cce": 30
+        },
+        "minMarks": {
+          "theory": 25,
+          "total": 35,
+          "cce": 10
+        },
+        "courseType": "Vocational-II",
+        "courseTypeCode": "VOC",
+        "rowspan": 2
+      },
+      {
+        "id": 216,
+        "fullName": "Web Designing",
+        "type": "Vocational",
+        "name": "V1-COS-WEBT-PR",
+        "subject": 216,
+        "groupSubjects": "<Master: Web Designing>",
+        "alias": "web_designing",
+        "sequance": 11,
+        "courseCredit": 2,
+        "credit": 2,
+        "className": "B.C.A",
+        "vPaper": "Vocational-PR",
+        "courseCode": "WD-PR",
+        "maxMarks": {
+          "practical": 100,
+          "total": 100
+        },
+        "minMarks": {
+          "practical": 40,
+          "total": 40
+        },
+        "courseType": "Vocational-II"
+      },
+      {
+        "id": 239,
+        "fullName": "Internship/Project",
+        "paperType": "Internship",
+        "type": "Internship",
+        "name": "INTERNSHIP",
+        "subject": 239,
+        "groupSubjects": "<Master: Internship>",
+        "alias": "internship",
+        "sequance": 16,
+        "courseCredit": 4,
+        "credit": 4,
+        "className": "Common-1",
+        "courseCode": "INTERNSHIP",
+        "maxMarks": {
+          "practical": 100,
+          "total": 100
+        },
+        "minMarks": {
+          "practical": 35,
+          "total": 35
+        },
+        "courseType": "INT/PROJ",
+        "courseTypeCode": "INT/PROJ",
+        "rowspan": 1
+      }
+    ],
+    "columns": [
+      {
+        "name": "Major",
+        "columns": 24,
+        "row": 4,
+        "short_code": "MJ"
+      },
+      {
+        "name": "Minor",
+        "columns": 12,
+        "row": 2,
+        "short_code": "MN"
+      },
+      {
+        "name": "Elective",
+        "columns": 6,
+        "row": 1,
+        "short_code": "EL"
+      },
+      {
+        "name": "Foundation Course",
+        "columns": 12,
+        "row": 2,
+        "short_code": "FC"
+      },
+      {
+        "name": "Vocational",
+        "columns": 11,
+        "row": 2,
+        "short_code": "VOC"
+      },
+      {
+        "name": "Internship",
+        "columns": 5,
+        "row": 1,
+        "short_code": "INT/PROJ"
+      },
+      {
+        "name": "Total",
+        "columns": 5,
+        "row": 1
+      }
+    ],
+    "group": "<Group: B.C.A->BCA>"
+  }
+]

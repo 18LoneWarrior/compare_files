@@ -1,0 +1,379 @@
+(line: 26 to 214)
+        (Old Data) "marksList": [
+          {
+            "value1": 18,
+            "value3": "[39 / 100]",
+            "sum": 39,
+            "subject": 208,
+            "value4": "P",
+            "value5": 4,
+            "value6": 16,
+            "value2": 21,
+            "courseTypeCode": "MJ-I",
+            "rowspan": 2
+          },
+          {
+            "value7": 51,
+            "value3": "[72 / 100]",
+            "sum": 72,
+            "subject": 209,
+            "value4": "A",
+            "value5": 8,
+            "value6": 16,
+            "value2": 21
+          },
+          {
+            "value1": 25,
+            "value3": "[46 / 100]",
+            "sum": 46,
+            "subject": 210,
+            "value4": "C",
+            "value5": 5,
+            "value6": 20,
+            "value2": 21,
+            "courseTypeCode": "MJ-II",
+            "rowspan": 2
+          },
+          {
+            "value7": 52,
+            "value3": "[73 / 100]",
+            "sum": 73,
+            "subject": 211,
+            "value4": "A",
+            "value5": 8,
+            "value6": 16,
+            "value2": 21
+          },
+          {
+            "value1": 25,
+            "value3": "[50 / 100]",
+            "sum": 50,
+            "subject": 213,
+            "value4": "B",
+            "value5": 6,
+            "value6": 24,
+            "value2": 25,
+            "courseTypeCode": "MN",
+            "rowspan": 2
+          },
+          {
+            "value7": 56,
+            "value3": "[77 / 100]",
+            "sum": 77,
+            "subject": 214,
+            "value4": "A",
+            "value5": 8,
+            "value6": 16,
+            "value2": 21
+          },
+          {
+            "value1": 6,
+            "value3": "[29 F / 100]",
+            "sum": 29,
+            "subject": 215,
+            "value4": "F",
+            "value5": 0,
+            "value6": 0,
+            "value2": 23,
+            "courseTypeCode": "EL",
+            "rowspan": 1
+          },
+          {
+            "value7": 17,
+            "value1": 31,
+            "sum": 48,
+            "subject": 79,
+            "subject1": 78,
+            "total": 4,
+            "subjectType": "FC",
+            "value3": "[48 / 100]",
+            "value4": "C",
+            "value5": 5,
+            "value6": 20,
+            "courseTypeCode": "FC-I",
+            "rowspan": 2
+          },
+          {
+            "value7": 29,
+            "value1": 21,
+            "sum": 50,
+            "subject": 81,
+            "subject1": 80,
+            "total": 4,
+            "subjectType": "FC",
+            "value3": "[50 / 100]",
+            "value4": "B",
+            "value5": 6,
+            "value6": 24,
+            "courseTypeCode": "FC-II",
+            "rowspan": 2
+          },
+          {
+            "value1": 26,
+            "value2": 22,
+            "sum": 48,
+            "value3": "[48 / 100]",
+            "subject": 216,
+            "value4": "C",
+            "value5": 5,
+            "value6": 10,
+            "type": "Vocational",
+            "courseCredit": 2,
+            "rowspan": 2,
+            "courseTypeCode": "VOC",
+            "courseCode": "Theory"
+          },
+          {
+            "value7": 74,
+            "sum": 74,
+            "value3": "[74 / 100]",
+            "subject": 216,
+            "value4": "A",
+            "value5": 8,
+            "value6": 16,
+            "type": "Vocational",
+            "courseCredit": 2,
+            "courseCode": "Practical"
+          },
+          {
+            "value7": 77,
+            "value3": "[77 / 100]",
+            "sum": 77,
+            "subject": 239,
+            "value4": "A",
+            "value5": 8,
+            "value6": 32,
+            "courseTypeCode": "INT/PROJ",
+            "rowspan": 1
+          },
+          {
+            "totalCredit": 40,
+            "totalGainCredit": 34,
+            "totalCreditPoints": 210
+          },
+          {
+            "value1": 34
+          },
+          {
+            "totalGainCredit": 34
+          },
+          {
+            "value1": 210
+          },
+          {
+            "totalCreditPoints": 210
+          },
+          {
+            "value1": "Supplementary"
+          },
+          {
+            "result": "Supplementary"
+          },
+          {
+            "value1": "5.25"
+          },
+          {
+            "totalCredit": 40,
+            "totalCreditPoints": 210,
+            "sgpa": "5.25",
+            "totalGainCredit": 34
+          },
+          {
+            "value1": "Supple.: DM-TH, "
+          },
+          {
+            "remark": "Supple.: DM-TH, "
+          },
+          {
+            "sem": "Decimal('    ')"
+          }
+        ],
+        (New Data)  "marksList": [
+          {
+            "value1": 20,
+            "value3": "[45 / 100]",
+            "sum": 40,
+            "subject": 200,
+            "value4": "q",
+            "value5": 5,
+            "value6": 20,
+            "value2": 25,
+            "courseTypeCode": "MJ-I",
+            "rowspan": 5
+          },
+          {
+            "value7": 50,
+            "value3": "[75 / 100]",
+            "sum": 78,
+            "subject": 210,
+            "value4": "A",
+            "value5": 9,
+            "value6": 20,
+            "value2": 25
+          },
+          {
+            "value1": 20,
+            "value3": "[40 / 100]",
+            "sum": 36,
+            "subject": 300,
+            "value4": "B",
+            "value5": 7,
+            "value6": 18,
+            "value2": 21,
+            "courseTypeCode": "MJ-II",
+            "rowspan": 4
+          },
+          {
+            "value7": 56,
+            "value3": "[79 / 100]",
+            "sum": 75,
+            "subject": 221,
+            "value4": "A",
+            "value5": 9,
+            "value6": 36,
+            "value2": 51
+          },
+          {
+            "value1": 23,
+            "value3": "[80 / 100]",
+            "sum": 50,
+            "subject": 219,
+            "value4": "B",
+            "value5": 9,
+            "value6": 89,
+            "value2": 75,
+            "courseTypeCode": "MN",
+            "rowspan": 1
+          },
+          {
+            "value7": 51,
+            "value3": "[37 / 100]",
+            "sum": 79,
+            "subject": 244,
+            "value4": "A",
+            "value5": 7,
+            "value6": 19,
+            "value2": 28
+          },
+          {
+            "value1": 2,
+            "value3": "[57 F / 100]",
+            "sum": 79,
+            "subject": 210,
+            "value4": "B",
+            "value5": 23,
+            "value6": 45,
+            "value2": 33,
+            "courseTypeCode": "EL",
+            "rowspan": 3
+          },
+          {
+            "value7": 145,
+            "value1": 37,
+            "sum": 41,
+            "subject": 69,
+            "subject1": 68,
+            "total": 3,
+            "subjectType": "FC",
+            "value3": "[76 / 100]",
+            "value4": "C",
+            "value5": 3,
+            "value6": 60,
+            "courseTypeCode": "FC-I",
+            "rowspan": 1
+          },
+          {
+            "value7": 67,
+            "value1": 27,
+            "sum": 50,
+            "subject": 82,
+            "subject1": 40,
+            "total": 6,
+            "subjectType": "FC",
+            "value3": "[80 / 100]",
+            "value4": "B",
+            "value5": 4,
+            "value6": 74,
+            "courseTypeCode": "FC-II",
+            "rowspan": 5
+          },
+          {
+            "value1": 36,
+            "value2": 62,
+            "sum": 78,
+            "value3": "[60 / 100]",
+            "subject": 218,
+            "value4": "C",
+            "value5": 3,
+            "value6": 50,
+            "type": "Vocational",
+            "courseCredit": 5,
+            "rowspan": 7,
+            "courseTypeCode": "VOC",
+            "courseCode": "Theory"
+          },
+          {
+            "value7": 64,
+            "sum": 64,
+            "value3": "[64 / 100]",
+            "subject": 214,
+            "value4": "A",
+            "value5": 5,
+            "value6": 46,
+            "type": "Vocational",
+            "courseCredit": 4,
+            "courseCode": "Practical"
+          },
+          {
+            "value7": 47,
+            "value3": "[47 / 100]",
+            "sum": 47,
+            "subject": 240,
+            "value4": "A",
+            "value5": 5,
+            "value6": 35,
+            "courseTypeCode": "INT/PROJ",
+            "rowspan": 3
+          },
+          {
+            "totalCredit": 60,
+            "totalGainCredit": 40,
+            "totalCreditPoints": 200
+          },
+          {
+            "value1": 38
+          },
+          {
+            "totalGainCredit": 38
+          },
+          {
+            "value1": 220
+          },
+          {
+            "totalCreditPoints": 220
+          },
+          {
+            "value1": "Supplementary"
+          },
+          {
+            "result": "Supplementary"
+          },
+          {
+            "value1": "6.25"
+          },
+          {
+            "totalCredit": 70,
+            "totalCreditPoints": 200,
+            "sgpa": "6.25",
+            "totalGainCredit": 38
+          },
+          {
+            "value1": "Supple.: DM-TH, "
+          },
+          {
+            "remark": "Supple.: DM-TH, "
+          },
+          {
+            "sem": "Decimal('    ')"
+          }
+       ],
