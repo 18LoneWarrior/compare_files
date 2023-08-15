@@ -1,0 +1,1190 @@
+[
+    {
+        "line_number": 28,
+        "file1_line": "\"value1\": 18,",
+        "file2_line": "\"value1\": 20,",
+        "diff": [
+            "-             \"value1\": 18,\n",
+            "?                       ^^\n",
+            "+             \"value1\": 20,\n",
+            "?                       ^^\n"
+        ]
+    },
+    {
+        "line_number": 29,
+        "file1_line": "\"value3\": \"[39 / 100]\",",
+        "file2_line": "\"value3\": \"[45 / 100]\",",
+        "diff": [
+            "-             \"value3\": \"[39 / 100]\",\n",
+            "?                         ^^\n",
+            "+             \"value3\": \"[45 / 100]\",\n",
+            "?                         ^^\n"
+        ]
+    },
+    {
+        "line_number": 30,
+        "file1_line": "\"sum\": 39,",
+        "file2_line": "\"sum\": 40,",
+        "diff": [
+            "-             \"sum\": 39,\n",
+            "?                    ^^\n",
+            "+             \"sum\": 40,\n",
+            "?                    ^^\n"
+        ]
+    },
+    {
+        "line_number": 31,
+        "file1_line": "\"subject\": 208,",
+        "file2_line": "\"subject\": 200,",
+        "diff": [
+            "-             \"subject\": 208,\n",
+            "?                          ^\n",
+            "+             \"subject\": 200,\n",
+            "?                          ^\n"
+        ]
+    },
+    {
+        "line_number": 32,
+        "file1_line": "\"value4\": \"P\",",
+        "file2_line": "\"value4\": \"q\",",
+        "diff": [
+            "-             \"value4\": \"P\",\n",
+            "?                        ^\n",
+            "+             \"value4\": \"q\",\n",
+            "?                        ^\n"
+        ]
+    },
+    {
+        "line_number": 33,
+        "file1_line": "\"value5\": 4,",
+        "file2_line": "\"value5\": 5,",
+        "diff": [
+            "-             \"value5\": 4,\n",
+            "?                       ^\n",
+            "+             \"value5\": 5,\n",
+            "?                       ^\n"
+        ]
+    },
+    {
+        "line_number": 34,
+        "file1_line": "\"value6\": 16,",
+        "file2_line": "\"value6\": 20,",
+        "diff": [
+            "-             \"value6\": 16,\n",
+            "?                       ^^\n",
+            "+             \"value6\": 20,\n",
+            "?                       ^^\n"
+        ]
+    },
+    {
+        "line_number": 35,
+        "file1_line": "\"value2\": 21,",
+        "file2_line": "\"value2\": 25,",
+        "diff": [
+            "-             \"value2\": 21,\n",
+            "?                        ^\n",
+            "+             \"value2\": 25,\n",
+            "?                        ^\n"
+        ]
+    },
+    {
+        "line_number": 37,
+        "file1_line": "\"rowspan\": 2",
+        "file2_line": "\"rowspan\": 5",
+        "diff": [
+            "-             \"rowspan\": 2\n",
+            "?                        ^\n",
+            "+             \"rowspan\": 5\n",
+            "?                        ^\n"
+        ]
+    },
+    {
+        "line_number": 40,
+        "file1_line": "\"value7\": 51,",
+        "file2_line": "\"value7\": 50,",
+        "diff": [
+            "-             \"value7\": 51,\n",
+            "?                        ^\n",
+            "+             \"value7\": 50,\n",
+            "?                        ^\n"
+        ]
+    },
+    {
+        "line_number": 41,
+        "file1_line": "\"value3\": \"[72 / 100]\",",
+        "file2_line": "\"value3\": \"[75 / 100]\",",
+        "diff": [
+            "-             \"value3\": \"[72 / 100]\",\n",
+            "?                          ^\n",
+            "+             \"value3\": \"[75 / 100]\",\n",
+            "?                          ^\n"
+        ]
+    },
+    {
+        "line_number": 42,
+        "file1_line": "\"sum\": 72,",
+        "file2_line": "\"sum\": 78,",
+        "diff": [
+            "-             \"sum\": 72,\n",
+            "?                     ^\n",
+            "+             \"sum\": 78,\n",
+            "?                     ^\n"
+        ]
+    },
+    {
+        "line_number": 43,
+        "file1_line": "\"subject\": 209,",
+        "file2_line": "\"subject\": 210,",
+        "diff": [
+            "-             \"subject\": 209,\n",
+            "?                          -\n",
+            "+             \"subject\": 210,\n",
+            "?                         +\n"
+        ]
+    },
+    {
+        "line_number": 45,
+        "file1_line": "\"value5\": 8,",
+        "file2_line": "\"value5\": 9,",
+        "diff": [
+            "-             \"value5\": 8,\n",
+            "?                       ^\n",
+            "+             \"value5\": 9,\n",
+            "?                       ^\n"
+        ]
+    },
+    {
+        "line_number": 46,
+        "file1_line": "\"value6\": 16,",
+        "file2_line": "\"value6\": 20,",
+        "diff": [
+            "-             \"value6\": 16,\n",
+            "?                       ^^\n",
+            "+             \"value6\": 20,\n",
+            "?                       ^^\n"
+        ]
+    },
+    {
+        "line_number": 47,
+        "file1_line": "\"value2\": 21",
+        "file2_line": "\"value2\": 25",
+        "diff": [
+            "-             \"value2\": 21\n",
+            "?                        ^\n",
+            "+             \"value2\": 25\n",
+            "?                        ^\n"
+        ]
+    },
+    {
+        "line_number": 50,
+        "file1_line": "\"value1\": 25,",
+        "file2_line": "\"value1\": 20,",
+        "diff": [
+            "-             \"value1\": 25,\n",
+            "?                        ^\n",
+            "+             \"value1\": 20,\n",
+            "?                        ^\n"
+        ]
+    },
+    {
+        "line_number": 51,
+        "file1_line": "\"value3\": \"[46 / 100]\",",
+        "file2_line": "\"value3\": \"[40 / 100]\",",
+        "diff": [
+            "-             \"value3\": \"[46 / 100]\",\n",
+            "?                          ^\n",
+            "+             \"value3\": \"[40 / 100]\",\n",
+            "?                          ^\n"
+        ]
+    },
+    {
+        "line_number": 52,
+        "file1_line": "\"sum\": 46,",
+        "file2_line": "\"sum\": 36,",
+        "diff": [
+            "-             \"sum\": 46,\n",
+            "?                    ^\n",
+            "+             \"sum\": 36,\n",
+            "?                    ^\n"
+        ]
+    },
+    {
+        "line_number": 53,
+        "file1_line": "\"subject\": 210,",
+        "file2_line": "\"subject\": 300,",
+        "diff": [
+            "-             \"subject\": 210,\n",
+            "?                        ^^\n",
+            "+             \"subject\": 300,\n",
+            "?                        ^^\n"
+        ]
+    },
+    {
+        "line_number": 54,
+        "file1_line": "\"value4\": \"C\",",
+        "file2_line": "\"value4\": \"B\",",
+        "diff": [
+            "-             \"value4\": \"C\",\n",
+            "?                        ^\n",
+            "+             \"value4\": \"B\",\n",
+            "?                        ^\n"
+        ]
+    },
+    {
+        "line_number": 55,
+        "file1_line": "\"value5\": 5,",
+        "file2_line": "\"value5\": 7,",
+        "diff": [
+            "-             \"value5\": 5,\n",
+            "?                       ^\n",
+            "+             \"value5\": 7,\n",
+            "?                       ^\n"
+        ]
+    },
+    {
+        "line_number": 56,
+        "file1_line": "\"value6\": 20,",
+        "file2_line": "\"value6\": 18,",
+        "diff": [
+            "-             \"value6\": 20,\n",
+            "?                       ^^\n",
+            "+             \"value6\": 18,\n",
+            "?                       ^^\n"
+        ]
+    },
+    {
+        "line_number": 59,
+        "file1_line": "\"rowspan\": 2",
+        "file2_line": "\"rowspan\": 4",
+        "diff": [
+            "-             \"rowspan\": 2\n",
+            "?                        ^\n",
+            "+             \"rowspan\": 4\n",
+            "?                        ^\n"
+        ]
+    },
+    {
+        "line_number": 62,
+        "file1_line": "\"value7\": 52,",
+        "file2_line": "\"value7\": 56,",
+        "diff": [
+            "-             \"value7\": 52,\n",
+            "?                        ^\n",
+            "+             \"value7\": 56,\n",
+            "?                        ^\n"
+        ]
+    },
+    {
+        "line_number": 63,
+        "file1_line": "\"value3\": \"[73 / 100]\",",
+        "file2_line": "\"value3\": \"[79 / 100]\",",
+        "diff": [
+            "-             \"value3\": \"[73 / 100]\",\n",
+            "?                          ^\n",
+            "+             \"value3\": \"[79 / 100]\",\n",
+            "?                          ^\n"
+        ]
+    },
+    {
+        "line_number": 64,
+        "file1_line": "\"sum\": 73,",
+        "file2_line": "\"sum\": 75,",
+        "diff": [
+            "-             \"sum\": 73,\n",
+            "?                     ^\n",
+            "+             \"sum\": 75,\n",
+            "?                     ^\n"
+        ]
+    },
+    {
+        "line_number": 65,
+        "file1_line": "\"subject\": 211,",
+        "file2_line": "\"subject\": 221,",
+        "diff": [
+            "-             \"subject\": 211,\n",
+            "?                         ^\n",
+            "+             \"subject\": 221,\n",
+            "?                         ^\n"
+        ]
+    },
+    {
+        "line_number": 67,
+        "file1_line": "\"value5\": 8,",
+        "file2_line": "\"value5\": 9,",
+        "diff": [
+            "-             \"value5\": 8,\n",
+            "?                       ^\n",
+            "+             \"value5\": 9,\n",
+            "?                       ^\n"
+        ]
+    },
+    {
+        "line_number": 68,
+        "file1_line": "\"value6\": 16,",
+        "file2_line": "\"value6\": 36,",
+        "diff": [
+            "-             \"value6\": 16,\n",
+            "?                       ^\n",
+            "+             \"value6\": 36,\n",
+            "?                       ^\n"
+        ]
+    },
+    {
+        "line_number": 69,
+        "file1_line": "\"value2\": 21",
+        "file2_line": "\"value2\": 51",
+        "diff": [
+            "-             \"value2\": 21\n",
+            "?                       ^\n",
+            "+             \"value2\": 51\n",
+            "?                       ^\n"
+        ]
+    },
+    {
+        "line_number": 72,
+        "file1_line": "\"value1\": 25,",
+        "file2_line": "\"value1\": 23,",
+        "diff": [
+            "-             \"value1\": 25,\n",
+            "?                        ^\n",
+            "+             \"value1\": 23,\n",
+            "?                        ^\n"
+        ]
+    },
+    {
+        "line_number": 73,
+        "file1_line": "\"value3\": \"[50 / 100]\",",
+        "file2_line": "\"value3\": \"[80 / 100]\",",
+        "diff": [
+            "-             \"value3\": \"[50 / 100]\",\n",
+            "?                         ^\n",
+            "+             \"value3\": \"[80 / 100]\",\n",
+            "?                         ^\n"
+        ]
+    },
+    {
+        "line_number": 75,
+        "file1_line": "\"subject\": 213,",
+        "file2_line": "\"subject\": 219,",
+        "diff": [
+            "-             \"subject\": 213,\n",
+            "?                          ^\n",
+            "+             \"subject\": 219,\n",
+            "?                          ^\n"
+        ]
+    },
+    {
+        "line_number": 77,
+        "file1_line": "\"value5\": 6,",
+        "file2_line": "\"value5\": 9,",
+        "diff": [
+            "-             \"value5\": 6,\n",
+            "?                       ^\n",
+            "+             \"value5\": 9,\n",
+            "?                       ^\n"
+        ]
+    },
+    {
+        "line_number": 78,
+        "file1_line": "\"value6\": 24,",
+        "file2_line": "\"value6\": 89,",
+        "diff": [
+            "-             \"value6\": 24,\n",
+            "?                       ^^\n",
+            "+             \"value6\": 89,\n",
+            "?                       ^^\n"
+        ]
+    },
+    {
+        "line_number": 79,
+        "file1_line": "\"value2\": 25,",
+        "file2_line": "\"value2\": 75,",
+        "diff": [
+            "-             \"value2\": 25,\n",
+            "?                       ^\n",
+            "+             \"value2\": 75,\n",
+            "?                       ^\n"
+        ]
+    },
+    {
+        "line_number": 81,
+        "file1_line": "\"rowspan\": 2",
+        "file2_line": "\"rowspan\": 1",
+        "diff": [
+            "-             \"rowspan\": 2\n",
+            "?                        ^\n",
+            "+             \"rowspan\": 1\n",
+            "?                        ^\n"
+        ]
+    },
+    {
+        "line_number": 84,
+        "file1_line": "\"value7\": 56,",
+        "file2_line": "\"value7\": 51,",
+        "diff": [
+            "-             \"value7\": 56,\n",
+            "?                        ^\n",
+            "+             \"value7\": 51,\n",
+            "?                        ^\n"
+        ]
+    },
+    {
+        "line_number": 85,
+        "file1_line": "\"value3\": \"[77 / 100]\",",
+        "file2_line": "\"value3\": \"[37 / 100]\",",
+        "diff": [
+            "-             \"value3\": \"[77 / 100]\",\n",
+            "?                          -\n",
+            "+             \"value3\": \"[37 / 100]\",\n",
+            "?                         +\n"
+        ]
+    },
+    {
+        "line_number": 86,
+        "file1_line": "\"sum\": 77,",
+        "file2_line": "\"sum\": 79,",
+        "diff": [
+            "-             \"sum\": 77,\n",
+            "?                     ^\n",
+            "+             \"sum\": 79,\n",
+            "?                     ^\n"
+        ]
+    },
+    {
+        "line_number": 87,
+        "file1_line": "\"subject\": 214,",
+        "file2_line": "\"subject\": 244,",
+        "diff": [
+            "-             \"subject\": 214,\n",
+            "?                         ^\n",
+            "+             \"subject\": 244,\n",
+            "?                         ^\n"
+        ]
+    },
+    {
+        "line_number": 89,
+        "file1_line": "\"value5\": 8,",
+        "file2_line": "\"value5\": 7,",
+        "diff": [
+            "-             \"value5\": 8,\n",
+            "?                       ^\n",
+            "+             \"value5\": 7,\n",
+            "?                       ^\n"
+        ]
+    },
+    {
+        "line_number": 90,
+        "file1_line": "\"value6\": 16,",
+        "file2_line": "\"value6\": 19,",
+        "diff": [
+            "-             \"value6\": 16,\n",
+            "?                        ^\n",
+            "+             \"value6\": 19,\n",
+            "?                        ^\n"
+        ]
+    },
+    {
+        "line_number": 91,
+        "file1_line": "\"value2\": 21",
+        "file2_line": "\"value2\": 28",
+        "diff": [
+            "-             \"value2\": 21\n",
+            "?                        ^\n",
+            "+             \"value2\": 28\n",
+            "?                        ^\n"
+        ]
+    },
+    {
+        "line_number": 94,
+        "file1_line": "\"value1\": 6,",
+        "file2_line": "\"value1\": 2,",
+        "diff": [
+            "-             \"value1\": 6,\n",
+            "?                       ^\n",
+            "+             \"value1\": 2,\n",
+            "?                       ^\n"
+        ]
+    },
+    {
+        "line_number": 95,
+        "file1_line": "\"value3\": \"[29 F / 100]\",",
+        "file2_line": "\"value3\": \"[57 F / 100]\",",
+        "diff": [
+            "-             \"value3\": \"[29 F / 100]\",\n",
+            "?                         ^^\n",
+            "+             \"value3\": \"[57 F / 100]\",\n",
+            "?                         ^^\n"
+        ]
+    },
+    {
+        "line_number": 96,
+        "file1_line": "\"sum\": 29,",
+        "file2_line": "\"sum\": 79,",
+        "diff": [
+            "-             \"sum\": 29,\n",
+            "?                    ^\n",
+            "+             \"sum\": 79,\n",
+            "?                    ^\n"
+        ]
+    },
+    {
+        "line_number": 97,
+        "file1_line": "\"subject\": 215,",
+        "file2_line": "\"subject\": 210,",
+        "diff": [
+            "-             \"subject\": 215,\n",
+            "?                          ^\n",
+            "+             \"subject\": 210,\n",
+            "?                          ^\n"
+        ]
+    },
+    {
+        "line_number": 98,
+        "file1_line": "\"value4\": \"F\",",
+        "file2_line": "\"value4\": \"B\",",
+        "diff": [
+            "-             \"value4\": \"F\",\n",
+            "?                        ^\n",
+            "+             \"value4\": \"B\",\n",
+            "?                        ^\n"
+        ]
+    },
+    {
+        "line_number": 99,
+        "file1_line": "\"value5\": 0,",
+        "file2_line": "\"value5\": 23,",
+        "diff": [
+            "-             \"value5\": 0,\n",
+            "?                       ^\n",
+            "+             \"value5\": 23,\n",
+            "?                       ^^\n"
+        ]
+    },
+    {
+        "line_number": 100,
+        "file1_line": "\"value6\": 0,",
+        "file2_line": "\"value6\": 45,",
+        "diff": [
+            "-             \"value6\": 0,\n",
+            "?                       ^\n",
+            "+             \"value6\": 45,\n",
+            "?                       ^^\n"
+        ]
+    },
+    {
+        "line_number": 101,
+        "file1_line": "\"value2\": 23,",
+        "file2_line": "\"value2\": 33,",
+        "diff": [
+            "-             \"value2\": 23,\n",
+            "?                       ^\n",
+            "+             \"value2\": 33,\n",
+            "?                       ^\n"
+        ]
+    },
+    {
+        "line_number": 103,
+        "file1_line": "\"rowspan\": 1",
+        "file2_line": "\"rowspan\": 3",
+        "diff": [
+            "-             \"rowspan\": 1\n",
+            "?                        ^\n",
+            "+             \"rowspan\": 3\n",
+            "?                        ^\n"
+        ]
+    },
+    {
+        "line_number": 106,
+        "file1_line": "\"value7\": 17,",
+        "file2_line": "\"value7\": 145,",
+        "diff": [
+            "-             \"value7\": 17,\n",
+            "?                        ^\n",
+            "+             \"value7\": 145,\n",
+            "?                        ^^\n"
+        ]
+    },
+    {
+        "line_number": 107,
+        "file1_line": "\"value1\": 31,",
+        "file2_line": "\"value1\": 37,",
+        "diff": [
+            "-             \"value1\": 31,\n",
+            "?                        ^\n",
+            "+             \"value1\": 37,\n",
+            "?                        ^\n"
+        ]
+    },
+    {
+        "line_number": 108,
+        "file1_line": "\"sum\": 48,",
+        "file2_line": "\"sum\": 41,",
+        "diff": [
+            "-             \"sum\": 48,\n",
+            "?                     ^\n",
+            "+             \"sum\": 41,\n",
+            "?                     ^\n"
+        ]
+    },
+    {
+        "line_number": 109,
+        "file1_line": "\"subject\": 79,",
+        "file2_line": "\"subject\": 69,",
+        "diff": [
+            "-             \"subject\": 79,\n",
+            "?                        ^\n",
+            "+             \"subject\": 69,\n",
+            "?                        ^\n"
+        ]
+    },
+    {
+        "line_number": 110,
+        "file1_line": "\"subject1\": 78,",
+        "file2_line": "\"subject1\": 68,",
+        "diff": [
+            "-             \"subject1\": 78,\n",
+            "?                         ^\n",
+            "+             \"subject1\": 68,\n",
+            "?                         ^\n"
+        ]
+    },
+    {
+        "line_number": 111,
+        "file1_line": "\"total\": 4,",
+        "file2_line": "\"total\": 3,",
+        "diff": [
+            "-             \"total\": 4,\n",
+            "?                      ^\n",
+            "+             \"total\": 3,\n",
+            "?                      ^\n"
+        ]
+    },
+    {
+        "line_number": 113,
+        "file1_line": "\"value3\": \"[48 / 100]\",",
+        "file2_line": "\"value3\": \"[76 / 100]\",",
+        "diff": [
+            "-             \"value3\": \"[48 / 100]\",\n",
+            "?                         ^^\n",
+            "+             \"value3\": \"[76 / 100]\",\n",
+            "?                         ^^\n"
+        ]
+    },
+    {
+        "line_number": 115,
+        "file1_line": "\"value5\": 5,",
+        "file2_line": "\"value5\": 3,",
+        "diff": [
+            "-             \"value5\": 5,\n",
+            "?                       ^\n",
+            "+             \"value5\": 3,\n",
+            "?                       ^\n"
+        ]
+    },
+    {
+        "line_number": 116,
+        "file1_line": "\"value6\": 20,",
+        "file2_line": "\"value6\": 60,",
+        "diff": [
+            "-             \"value6\": 20,\n",
+            "?                       ^\n",
+            "+             \"value6\": 60,\n",
+            "?                       ^\n"
+        ]
+    },
+    {
+        "line_number": 118,
+        "file1_line": "\"rowspan\": 2",
+        "file2_line": "\"rowspan\": 1",
+        "diff": [
+            "-             \"rowspan\": 2\n",
+            "?                        ^\n",
+            "+             \"rowspan\": 1\n",
+            "?                        ^\n"
+        ]
+    },
+    {
+        "line_number": 121,
+        "file1_line": "\"value7\": 29,",
+        "file2_line": "\"value7\": 67,",
+        "diff": [
+            "-             \"value7\": 29,\n",
+            "?                       ^^\n",
+            "+             \"value7\": 67,\n",
+            "?                       ^^\n"
+        ]
+    },
+    {
+        "line_number": 122,
+        "file1_line": "\"value1\": 21,",
+        "file2_line": "\"value1\": 27,",
+        "diff": [
+            "-             \"value1\": 21,\n",
+            "?                        ^\n",
+            "+             \"value1\": 27,\n",
+            "?                        ^\n"
+        ]
+    },
+    {
+        "line_number": 124,
+        "file1_line": "\"subject\": 81,",
+        "file2_line": "\"subject\": 82,",
+        "diff": [
+            "-             \"subject\": 81,\n",
+            "?                         ^\n",
+            "+             \"subject\": 82,\n",
+            "?                         ^\n"
+        ]
+    },
+    {
+        "line_number": 125,
+        "file1_line": "\"subject1\": 80,",
+        "file2_line": "\"subject1\": 40,",
+        "diff": [
+            "-             \"subject1\": 80,\n",
+            "?                         ^\n",
+            "+             \"subject1\": 40,\n",
+            "?                         ^\n"
+        ]
+    },
+    {
+        "line_number": 126,
+        "file1_line": "\"total\": 4,",
+        "file2_line": "\"total\": 6,",
+        "diff": [
+            "-             \"total\": 4,\n",
+            "?                      ^\n",
+            "+             \"total\": 6,\n",
+            "?                      ^\n"
+        ]
+    },
+    {
+        "line_number": 128,
+        "file1_line": "\"value3\": \"[50 / 100]\",",
+        "file2_line": "\"value3\": \"[80 / 100]\",",
+        "diff": [
+            "-             \"value3\": \"[50 / 100]\",\n",
+            "?                         ^\n",
+            "+             \"value3\": \"[80 / 100]\",\n",
+            "?                         ^\n"
+        ]
+    },
+    {
+        "line_number": 130,
+        "file1_line": "\"value5\": 6,",
+        "file2_line": "\"value5\": 4,",
+        "diff": [
+            "-             \"value5\": 6,\n",
+            "?                       ^\n",
+            "+             \"value5\": 4,\n",
+            "?                       ^\n"
+        ]
+    },
+    {
+        "line_number": 131,
+        "file1_line": "\"value6\": 24,",
+        "file2_line": "\"value6\": 74,",
+        "diff": [
+            "-             \"value6\": 24,\n",
+            "?                       ^\n",
+            "+             \"value6\": 74,\n",
+            "?                       ^\n"
+        ]
+    },
+    {
+        "line_number": 133,
+        "file1_line": "\"rowspan\": 2",
+        "file2_line": "\"rowspan\": 5",
+        "diff": [
+            "-             \"rowspan\": 2\n",
+            "?                        ^\n",
+            "+             \"rowspan\": 5\n",
+            "?                        ^\n"
+        ]
+    },
+    {
+        "line_number": 136,
+        "file1_line": "\"value1\": 26,",
+        "file2_line": "\"value1\": 36,",
+        "diff": [
+            "-             \"value1\": 26,\n",
+            "?                       ^\n",
+            "+             \"value1\": 36,\n",
+            "?                       ^\n"
+        ]
+    },
+    {
+        "line_number": 137,
+        "file1_line": "\"value2\": 22,",
+        "file2_line": "\"value2\": 62,",
+        "diff": [
+            "-             \"value2\": 22,\n",
+            "?                       ^\n",
+            "+             \"value2\": 62,\n",
+            "?                       ^\n"
+        ]
+    },
+    {
+        "line_number": 138,
+        "file1_line": "\"sum\": 48,",
+        "file2_line": "\"sum\": 78,",
+        "diff": [
+            "-             \"sum\": 48,\n",
+            "?                    ^\n",
+            "+             \"sum\": 78,\n",
+            "?                    ^\n"
+        ]
+    },
+    {
+        "line_number": 139,
+        "file1_line": "\"value3\": \"[48 / 100]\",",
+        "file2_line": "\"value3\": \"[60 / 100]\",",
+        "diff": [
+            "-             \"value3\": \"[48 / 100]\",\n",
+            "?                         ^^\n",
+            "+             \"value3\": \"[60 / 100]\",\n",
+            "?                         ^^\n"
+        ]
+    },
+    {
+        "line_number": 140,
+        "file1_line": "\"subject\": 216,",
+        "file2_line": "\"subject\": 218,",
+        "diff": [
+            "-             \"subject\": 216,\n",
+            "?                          ^\n",
+            "+             \"subject\": 218,\n",
+            "?                          ^\n"
+        ]
+    },
+    {
+        "line_number": 142,
+        "file1_line": "\"value5\": 5,",
+        "file2_line": "\"value5\": 3,",
+        "diff": [
+            "-             \"value5\": 5,\n",
+            "?                       ^\n",
+            "+             \"value5\": 3,\n",
+            "?                       ^\n"
+        ]
+    },
+    {
+        "line_number": 143,
+        "file1_line": "\"value6\": 10,",
+        "file2_line": "\"value6\": 50,",
+        "diff": [
+            "-             \"value6\": 10,\n",
+            "?                       ^\n",
+            "+             \"value6\": 50,\n",
+            "?                       ^\n"
+        ]
+    },
+    {
+        "line_number": 145,
+        "file1_line": "\"courseCredit\": 2,",
+        "file2_line": "\"courseCredit\": 5,",
+        "diff": [
+            "-             \"courseCredit\": 2,\n",
+            "?                             ^\n",
+            "+             \"courseCredit\": 5,\n",
+            "?                             ^\n"
+        ]
+    },
+    {
+        "line_number": 146,
+        "file1_line": "\"rowspan\": 2,",
+        "file2_line": "\"rowspan\": 7,",
+        "diff": [
+            "-             \"rowspan\": 2,\n",
+            "?                        ^\n",
+            "+             \"rowspan\": 7,\n",
+            "?                        ^\n"
+        ]
+    },
+    {
+        "line_number": 151,
+        "file1_line": "\"value7\": 74,",
+        "file2_line": "\"value7\": 64,",
+        "diff": [
+            "-             \"value7\": 74,\n",
+            "?                       ^\n",
+            "+             \"value7\": 64,\n",
+            "?                       ^\n"
+        ]
+    },
+    {
+        "line_number": 152,
+        "file1_line": "\"sum\": 74,",
+        "file2_line": "\"sum\": 64,",
+        "diff": [
+            "-             \"sum\": 74,\n",
+            "?                    ^\n",
+            "+             \"sum\": 64,\n",
+            "?                    ^\n"
+        ]
+    },
+    {
+        "line_number": 153,
+        "file1_line": "\"value3\": \"[74 / 100]\",",
+        "file2_line": "\"value3\": \"[64 / 100]\",",
+        "diff": [
+            "-             \"value3\": \"[74 / 100]\",\n",
+            "?                         ^\n",
+            "+             \"value3\": \"[64 / 100]\",\n",
+            "?                         ^\n"
+        ]
+    },
+    {
+        "line_number": 154,
+        "file1_line": "\"subject\": 216,",
+        "file2_line": "\"subject\": 214,",
+        "diff": [
+            "-             \"subject\": 216,\n",
+            "?                          ^\n",
+            "+             \"subject\": 214,\n",
+            "?                          ^\n"
+        ]
+    },
+    {
+        "line_number": 156,
+        "file1_line": "\"value5\": 8,",
+        "file2_line": "\"value5\": 5,",
+        "diff": [
+            "-             \"value5\": 8,\n",
+            "?                       ^\n",
+            "+             \"value5\": 5,\n",
+            "?                       ^\n"
+        ]
+    },
+    {
+        "line_number": 157,
+        "file1_line": "\"value6\": 16,",
+        "file2_line": "\"value6\": 46,",
+        "diff": [
+            "-             \"value6\": 16,\n",
+            "?                       ^\n",
+            "+             \"value6\": 46,\n",
+            "?                       ^\n"
+        ]
+    },
+    {
+        "line_number": 159,
+        "file1_line": "\"courseCredit\": 2,",
+        "file2_line": "\"courseCredit\": 4,",
+        "diff": [
+            "-             \"courseCredit\": 2,\n",
+            "?                             ^\n",
+            "+             \"courseCredit\": 4,\n",
+            "?                             ^\n"
+        ]
+    },
+    {
+        "line_number": 163,
+        "file1_line": "\"value7\": 77,",
+        "file2_line": "\"value7\": 47,",
+        "diff": [
+            "-             \"value7\": 77,\n",
+            "?                       ^\n",
+            "+             \"value7\": 47,\n",
+            "?                       ^\n"
+        ]
+    },
+    {
+        "line_number": 164,
+        "file1_line": "\"value3\": \"[77 / 100]\",",
+        "file2_line": "\"value3\": \"[47 / 100]\",",
+        "diff": [
+            "-             \"value3\": \"[77 / 100]\",\n",
+            "?                          -\n",
+            "+             \"value3\": \"[47 / 100]\",\n",
+            "?                         +\n"
+        ]
+    },
+    {
+        "line_number": 165,
+        "file1_line": "\"sum\": 77,",
+        "file2_line": "\"sum\": 47,",
+        "diff": [
+            "-             \"sum\": 77,\n",
+            "?                    ^\n",
+            "+             \"sum\": 47,\n",
+            "?                    ^\n"
+        ]
+    },
+    {
+        "line_number": 166,
+        "file1_line": "\"subject\": 239,",
+        "file2_line": "\"subject\": 240,",
+        "diff": [
+            "-             \"subject\": 239,\n",
+            "?                         ^^\n",
+            "+             \"subject\": 240,\n",
+            "?                         ^^\n"
+        ]
+    },
+    {
+        "line_number": 168,
+        "file1_line": "\"value5\": 8,",
+        "file2_line": "\"value5\": 5,",
+        "diff": [
+            "-             \"value5\": 8,\n",
+            "?                       ^\n",
+            "+             \"value5\": 5,\n",
+            "?                       ^\n"
+        ]
+    },
+    {
+        "line_number": 169,
+        "file1_line": "\"value6\": 32,",
+        "file2_line": "\"value6\": 35,",
+        "diff": [
+            "-             \"value6\": 32,\n",
+            "?                        ^\n",
+            "+             \"value6\": 35,\n",
+            "?                        ^\n"
+        ]
+    },
+    {
+        "line_number": 171,
+        "file1_line": "\"rowspan\": 1",
+        "file2_line": "\"rowspan\": 3",
+        "diff": [
+            "-             \"rowspan\": 1\n",
+            "?                        ^\n",
+            "+             \"rowspan\": 3\n",
+            "?                        ^\n"
+        ]
+    },
+    {
+        "line_number": 174,
+        "file1_line": "\"totalCredit\": 40,",
+        "file2_line": "\"totalCredit\": 60,",
+        "diff": [
+            "-             \"totalCredit\": 40,\n",
+            "?                            ^\n",
+            "+             \"totalCredit\": 60,\n",
+            "?                            ^\n"
+        ]
+    },
+    {
+        "line_number": 175,
+        "file1_line": "\"totalGainCredit\": 34,",
+        "file2_line": "\"totalGainCredit\": 40,",
+        "diff": [
+            "-             \"totalGainCredit\": 34,\n",
+            "?                                -\n",
+            "+             \"totalGainCredit\": 40,\n",
+            "?                                 +\n"
+        ]
+    },
+    {
+        "line_number": 176,
+        "file1_line": "\"totalCreditPoints\": 210",
+        "file2_line": "\"totalCreditPoints\": 200",
+        "diff": [
+            "-             \"totalCreditPoints\": 210\n",
+            "?                                   ^\n",
+            "+             \"totalCreditPoints\": 200\n",
+            "?                                   ^\n"
+        ]
+    },
+    {
+        "line_number": 179,
+        "file1_line": "\"value1\": 34",
+        "file2_line": "\"value1\": 38",
+        "diff": [
+            "-             \"value1\": 34\n",
+            "?                        ^\n",
+            "+             \"value1\": 38\n",
+            "?                        ^\n"
+        ]
+    },
+    {
+        "line_number": 182,
+        "file1_line": "\"totalGainCredit\": 34",
+        "file2_line": "\"totalGainCredit\": 38",
+        "diff": [
+            "-             \"totalGainCredit\": 34\n",
+            "?                                 ^\n",
+            "+             \"totalGainCredit\": 38\n",
+            "?                                 ^\n"
+        ]
+    },
+    {
+        "line_number": 185,
+        "file1_line": "\"value1\": 210",
+        "file2_line": "\"value1\": 220",
+        "diff": [
+            "-             \"value1\": 210\n",
+            "?                        ^\n",
+            "+             \"value1\": 220\n",
+            "?                        ^\n"
+        ]
+    },
+    {
+        "line_number": 188,
+        "file1_line": "\"totalCreditPoints\": 210",
+        "file2_line": "\"totalCreditPoints\": 220",
+        "diff": [
+            "-             \"totalCreditPoints\": 210\n",
+            "?                                   ^\n",
+            "+             \"totalCreditPoints\": 220\n",
+            "?                                   ^\n"
+        ]
+    },
+    {
+        "line_number": 197,
+        "file1_line": "\"value1\": \"5.25\"",
+        "file2_line": "\"value1\": \"6.25\"",
+        "diff": [
+            "-             \"value1\": \"5.25\"\n",
+            "?                        ^\n",
+            "+             \"value1\": \"6.25\"\n",
+            "?                        ^\n"
+        ]
+    },
+    {
+        "line_number": 200,
+        "file1_line": "\"totalCredit\": 40,",
+        "file2_line": "\"totalCredit\": 70,",
+        "diff": [
+            "-             \"totalCredit\": 40,\n",
+            "?                            ^\n",
+            "+             \"totalCredit\": 70,\n",
+            "?                            ^\n"
+        ]
+    },
+    {
+        "line_number": 201,
+        "file1_line": "\"totalCreditPoints\": 210,",
+        "file2_line": "\"totalCreditPoints\": 200,",
+        "diff": [
+            "-             \"totalCreditPoints\": 210,\n",
+            "?                                   ^\n",
+            "+             \"totalCreditPoints\": 200,\n",
+            "?                                   ^\n"
+        ]
+    },
+    {
+        "line_number": 202,
+        "file1_line": "\"sgpa\": \"5.25\",",
+        "file2_line": "\"sgpa\": \"6.25\",",
+        "diff": [
+            "-             \"sgpa\": \"5.25\",\n",
+            "?                      ^\n",
+            "+             \"sgpa\": \"6.25\",\n",
+            "?                      ^\n"
+        ]
+    },
+    {
+        "line_number": 203,
+        "file1_line": "\"totalGainCredit\": 34",
+        "file2_line": "\"totalGainCredit\": 38",
+        "diff": [
+            "-             \"totalGainCredit\": 34\n",
+            "?                                 ^\n",
+            "+             \"totalGainCredit\": 38\n",
+            "?                                 ^\n"
+        ]
+    }
+]
